@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Techno Toxs\Desktop\radhe radhe\ni-tutor\NP Archives\NP Archives\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="bachelorslevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca1sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca2sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca3sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca4sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca5sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca6sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca7sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BCA\bca8sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 1 sem\cprogramming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 1 sem\digitallogics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 1 sem\informationtechnology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 1 sem\mathematics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 1 sem\physics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 2 sem\discretestructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 2 sem\mathematics-2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 2 sem\microprocessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 2 sem\objectorientedprogramming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 2 sem\statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 3 sem\computerarchitecture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 3 sem\computergraphics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 3 sem\datastructurealgorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 3 sem\numericalmethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 3 sem\statistics-II.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 4 sem\artificialintelligence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 4 sem\computernetworks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 4 sem\databasemanagementsystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 4 sem\operatingsystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 4 sem\theoryofcomputation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\cryptography.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\designandanalysisofalgorithms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\imageprocessing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\knowledgemanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\microprocessorbaseddesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\multimediacomputing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\simulationandmodelling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\societyandethics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\systemanalysisanddesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\webtechnology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 5 sem\wirelessnetworking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\appliedlogic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\automationandrobotics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\cognitivescience.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\compilerdesignandcontruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\computerhardwaredesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\ecommerce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\egovernance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\netcentriccomputing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\neuralnetwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\softwareengineering.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 6 sem\technicalwriting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 7 sem\advancedjavaprogramming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 7 sem\datawarehousinganddatamining.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 7 sem\principalofmanagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 7 sem\projectwork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 8 sem\advanceddatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\CSIT 8 sem\internship.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit1sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit2sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit3sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit4sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit5sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit6sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit7sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bsc.csit\csit8sem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10computer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10english.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10hpe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10maths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10nepali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10opt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10science.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 10\class10sst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11biology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11chemistry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11computer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11english.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11maths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11nepali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11physics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 11\class11zolbot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12biology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12botany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12chemistry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12computer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12english.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12maths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12nepali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12physics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12sst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 12\class12zoology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9computer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9english.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9hpe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9maths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9nepali.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9opt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9science.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="class 9\class9sst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="collegelevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programmingandhacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\androidstudio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\csharp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\java.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\javascript.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\php.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Programming\python.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="schoollevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="startup[age.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Techno Toxs\Desktop\Published App\NP Archives.exe
+C:\Users\Techno Toxs\Desktop\Published App\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\Published App\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\Published App\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\Published App\NP Archives.dll
+C:\Users\Techno Toxs\Desktop\Published App\NP Archives.deps.json
+C:\Users\Techno Toxs\Desktop\Published App\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\Desktop\Published App\NP Archives.pdb
+C:\Users\Techno Toxs\Desktop\Published App\Microsoft.Windows.SDK.NET.dll
+C:\Users\Techno Toxs\Desktop\Published App\WinRT.Runtime.dll
+C:\Users\Techno Toxs\Desktop\Published App\HtmlAgilityPack.dll
+C:\Users\Techno Toxs\Desktop\Published App\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\Desktop\Published App\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\Desktop\Published App\Microsoft.Web.WebView2.Wpf.dll

@@ -1,0 +1,246 @@
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.exe
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.deps.json
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.AssemblyReference.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.homepage.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.Properties.Resources.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.GenerateResource.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.AssemblyInfoInputs.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.AssemblyInfo.cs
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.CoreCompileInputs.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\refint\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.genruntimeconfig.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\ref\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.schoollevel.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.CopyComplete
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9english.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.ResolveComReference.cache
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9nepali.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9account.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9computer.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9hpe.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9maths.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9opt.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9science.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9sst.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10english.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.collegelevel.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10account.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_10.class10computer.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10hpe.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10maths.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10nepali.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_10.class10opt.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10science.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10sst.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11biology.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11chemistry.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11computer.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11english.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11maths.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11nepali.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11physics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11zolbot.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12biology.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12botany.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12chemistry.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12computer.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12english.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12maths.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12nepali.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12physics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12sst.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12zoology.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bachelorslevel.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit1sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit2sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit3sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit4sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit5sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit6sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit7sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit8sem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.cprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.digitallogics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.informationtechnology.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.mathematics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.physics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.discretestructure.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.mathematics_2.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.microprocessor.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.objectorientedprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.statistics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.computerarchitecture.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.computergraphics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.datastructurealgorithm.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.numericalmethod.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.statistics_II.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.artificialintelligence.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.computernetworks.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.databasemanagementsystem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.operatingsystem.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.theoryofcomputation.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.cryptography.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.designandanalysisofalgorithms.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.imageprocessing.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.knowledgemanagement.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.microprocessorbaseddesign.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.multimediacomputing.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.simulationandmodelling.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.systemanalysisanddesign.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.webtechnology.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.wirelessnetworking.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.appliedlogic.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.automationandrobotics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.cognitivescience.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.compilerdesignandcontruction.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.computerhardwaredesign.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.ecommerce.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.egovernance.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.netcentriccomputing.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.neuralnetwork.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.softwareengineering.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.technicalwriting.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.advancedjavaprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.datawarehousinganddatamining.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.principalofmanagement.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.projectwork.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_8_sem.advanceddatabase.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_8_sem.internship.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.societyandethics.resources
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\Techno Toxs\source\repos\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.startup_age.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.exe
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.deps.json
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.AssemblyReference.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.ResolveComReference.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bachelorslevel.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.cprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.digitallogics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.informationtechnology.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.mathematics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_1_sem.physics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.discretestructure.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.mathematics_2.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.microprocessor.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.objectorientedprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_2_sem.statistics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.computerarchitecture.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.computergraphics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.datastructurealgorithm.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.numericalmethod.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_3_sem.statistics_II.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.artificialintelligence.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.computernetworks.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.databasemanagementsystem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.operatingsystem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_4_sem.theoryofcomputation.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.cryptography.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.designandanalysisofalgorithms.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.imageprocessing.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.knowledgemanagement.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.microprocessorbaseddesign.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.multimediacomputing.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.simulationandmodelling.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.societyandethics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.systemanalysisanddesign.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.webtechnology.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_5_sem.wirelessnetworking.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.appliedlogic.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.automationandrobotics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.cognitivescience.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.compilerdesignandcontruction.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.computerhardwaredesign.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.ecommerce.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.egovernance.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.netcentriccomputing.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.neuralnetwork.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.softwareengineering.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_6_sem.technicalwriting.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.advancedjavaprogramming.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.datawarehousinganddatamining.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.principalofmanagement.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_7_sem.projectwork.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_8_sem.advanceddatabase.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.CSIT_8_sem.internship.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit1sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit2sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit3sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit4sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit5sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit6sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit7sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.bsc.csit.csit8sem.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10account.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_10.class10computer.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10english.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10hpe.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10maths.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10nepali.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_10.class10opt.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10science.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class10sst.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11biology.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11chemistry.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11computer.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11english.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11maths.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11nepali.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11physics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_11.class11zolbot.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12biology.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12botany.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12chemistry.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12computer.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12english.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12maths.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12nepali.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12physics.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12sst.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class_12.class12zoology.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9account.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9computer.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9english.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9hpe.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9maths.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9nepali.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9opt.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9science.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.class9sst.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.collegelevel.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.homepage.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.Properties.Resources.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.schoollevel.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP_Archives.startup_age.resources
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.GenerateResource.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.AssemblyInfoInputs.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.AssemblyInfo.cs
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.CoreCompileInputs.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.csproj.CopyComplete
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\refint\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\NP Archives.genruntimeconfig.cache
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\obj\Debug\net6.0-windows\ref\NP Archives.dll

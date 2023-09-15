@@ -1,0 +1,14 @@
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NP Archives.exe
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NP Archives.deps.json
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\WinRT.Runtime.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\HtmlAgilityPack.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\source\repos\Winform-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.Wpf.dll

@@ -1,0 +1,17 @@
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\NP Archives.exe
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\NP Archives.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\NP Archives.deps.json
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\NP Archives.pdb
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\Interop.Acrobat.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\WinRT.Runtime.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\PdfiumViewer.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\PdfSharp.dll
+C:\Users\Techno Toxs\Desktop\NP-Archives-Update\NP Archives\NP Archives\bin\Release\net6.0-windows10.0.17763.0\publish\nl\PdfiumViewer.resources.dll

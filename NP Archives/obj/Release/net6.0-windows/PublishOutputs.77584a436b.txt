@@ -1,0 +1,12 @@
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\NP Archives.exe
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\NP Archives.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\NP Archives.deps.json
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\NP Archives.runtimeconfig.json
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\NP Archives.pdb
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\HtmlAgilityPack.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Techno Toxs\source\repos\NP-Archives-Desktop-Application\NP Archives\NP Archives\bin\Release\net6.0-windows\app.publish\Microsoft.Web.WebView2.Wpf.dll

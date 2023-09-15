@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PktW5thOEDA1iqiO+Z0Gpz78pnr0sFrx1fRa4nE47vhBkB7Bvlvcc2fKhHFV6zPotdb52ReWFYI5um/0pWTKVg==",
+  "success": true,
+  "projectFilePath": "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\NI Tutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronit\\.nuget\\packages\\microsoft.web.webview2\\1.0.1938.49\\microsoft.web.webview2.1.0.1938.49.nupkg.sha512",
+    "C:\\Users\\Ronit\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.29\\microsoft.windows.sdk.net.ref.10.0.17763.29.nupkg.sha512"
+  ],
+  "logs": []
+}
