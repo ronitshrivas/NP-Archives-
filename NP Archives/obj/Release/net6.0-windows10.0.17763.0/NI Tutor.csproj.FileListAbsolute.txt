@@ -422,3 +422,143 @@ D:\NI-Tutor-Desktop-Application\NP Archives\NP Archives\obj\Release\net6.0-windo
 D:\NI-Tutor-Desktop-Application\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.pdb
 D:\NI-Tutor-Desktop-Application\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.genruntimeconfig.cache
 D:\NI-Tutor-Desktop-Application\NP Archives\NP Archives\obj\Release\net6.0-windows10.0.17763.0\ref\NI Tutor.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.exe
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.dll.config
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.deps.json
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.runtimeconfig.json
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\NI Tutor.pdb
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.WinForms.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Wpf.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.csproj.AssemblyReference.cache
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bachelorslevel.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca1sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca2sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca3sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca4sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca5sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca6sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca7sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.BCA.bca8sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_1_sem.cprogramming.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_1_sem.digitallogics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_1_sem.informationtechnology.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_1_sem.mathematics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_1_sem.physics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_2_sem.discretestructure.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_2_sem.mathematics_2.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_2_sem.microprocessor.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_2_sem.objectorientedprogramming.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_2_sem.statistics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_3_sem.computerarchitecture.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_3_sem.computergraphics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_3_sem.datastructurealgorithm.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_3_sem.numericalmethod.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_3_sem.statistics_II.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_4_sem.artificialintelligence.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_4_sem.computernetworks.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_4_sem.databasemanagementsystem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_4_sem.operatingsystem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_4_sem.theoryofcomputation.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.cryptography.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.designandanalysisofalgorithms.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.imageprocessing.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.knowledgemanagement.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.microprocessorbaseddesign.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.multimediacomputing.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.simulationandmodelling.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.societyandethics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.systemanalysisanddesign.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.webtechnology.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_5_sem.wirelessnetworking.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.appliedlogic.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.automationandrobotics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.cognitivescience.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.compilerdesignandcontruction.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.computerhardwaredesign.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.ecommerce.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.egovernance.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.netcentriccomputing.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.neuralnetwork.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.softwareengineering.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_6_sem.technicalwriting.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_7_sem.advancedjavaprogramming.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_7_sem.datawarehousinganddatamining.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_7_sem.principalofmanagement.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_7_sem.projectwork.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_8_sem.advanceddatabase.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.CSIT_8_sem.internship.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit1sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit2sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit3sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit4sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit5sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit6sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit7sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.bsc.csit.csit8sem.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10account.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_10.class10computer.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10english.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10hpe.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10maths.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10nepali.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_10.class10opt.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10science.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class10sst.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11biology.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11chemistry.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11computer.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11english.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11maths.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11nepali.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11physics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_11.class11zolbot.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12biology.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12botany.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12chemistry.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12computer.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12english.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12maths.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12nepali.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12physics.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12sst.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class_12.class12zoology.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9account.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9computer.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9english.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9hpe.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9maths.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9nepali.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9opt.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9science.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.class9sst.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.collegelevel.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.homepage.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.login.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programmingandhacking.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.androidstudio.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.csharp.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.java.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.javascript.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.php.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Programming.python.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.Properties.Resources.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.schoollevel.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NP_Archives.startup_age.resources
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.csproj.GenerateResource.cache
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.GeneratedMSBuildEditorConfig.editorconfig
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.AssemblyInfoInputs.cache
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.AssemblyInfo.cs
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.csproj.CoreCompileInputs.cache
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.csproj.CopyComplete
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.dll
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\refint\NI Tutor.dll
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.pdb
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\NI Tutor.genruntimeconfig.cache
+D:\NP-Archives-\NP Archives\obj\Release\net6.0-windows10.0.17763.0\ref\NI Tutor.dll

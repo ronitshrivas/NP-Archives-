@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\NI Tutor.csproj": {}
+    "D:\\NP-Archives-\\NP Archives\\NI Tutor.csproj": {}
   },
   "projects": {
-    "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\NI Tutor.csproj": {
+    "D:\\NP-Archives-\\NP Archives\\NI Tutor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\NI Tutor.csproj",
+        "projectUniqueName": "D:\\NP-Archives-\\NP Archives\\NI Tutor.csproj",
         "projectName": "NI Tutor",
-        "projectPath": "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\NI Tutor.csproj",
+        "projectPath": "D:\\NP-Archives-\\NP Archives\\NI Tutor.csproj",
         "packagesPath": "C:\\Users\\Ronit\\.nuget\\packages\\",
-        "outputPath": "D:\\NI-Tutor-Desktop-Application\\NP Archives\\NP Archives\\obj\\",
+        "outputPath": "D:\\NP-Archives-\\NP Archives\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronit\\AppData\\Roaming\\NuGet\\NuGet.Config",
