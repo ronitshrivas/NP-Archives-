@@ -1,0 +1,14 @@
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.exe
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-x86\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-x64\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\runtimes\win-arm64\native\WebView2Loader.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.deps.json
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.runtimeconfig.json
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.dll.config
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\NI Tutor.pdb
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Windows.SDK.NET.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\WinRT.Runtime.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.Core.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.WinForms.dll
+D:\NP-Archives-\NP Archives\bin\Release\net6.0-windows10.0.17763.0\app.publish\Microsoft.Web.WebView2.Wpf.dll

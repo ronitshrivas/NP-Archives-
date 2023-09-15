@@ -90,7 +90,7 @@ namespace NP_Archives
 
         private void panel1_MouseUp(object sender, MouseEventArgs e)
         {
-           
+
         }
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
