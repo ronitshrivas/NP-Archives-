@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="NI Tutor.application" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="NI Tutor.application" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Ronit Shrivastav" co.v1:suiteName="NI Tutor" asmv2:product="NI Tutor" asmv2:supportUrl="https://technotoxs07.github.io/NI-TUtor-Support-Page/" co.v1:errorReportUrl="https://technotoxs07.github.io/NI-Tutor-Error-Page/" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="1.0.0.3" co.v1:createDesktopShortcut="true">
     <subscription>
@@ -15,13 +15,13 @@
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="NI Tutor.dll.manifest" size="8872">
-      <assemblyIdentity name="NI Tutor.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+      <assemblyIdentity name="NI Tutor.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NJipmnKVObDB1JsP0YMpXMopXQ+V4Ak95V+MK4nrFt4=</dsig:DigestValue>
+        <dsig:DigestValue>Y9ldDPsWkTWu8u5KObhEhz+0qGfslhfEAS4mabhAcM8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
