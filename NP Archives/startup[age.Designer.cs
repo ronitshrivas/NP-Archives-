@@ -28,99 +28,92 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(startup_age));
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.timefader = new System.Windows.Forms.Timer(this.components);
-            this.tmrwastetine = new System.Windows.Forms.Timer(this.components);
-            this.label3 = new System.Windows.Forms.Label();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.SuspendLayout();
+            label1 = new Label();
+            label2 = new Label();
+            timefader = new System.Windows.Forms.Timer(components);
+            tmrwastetine = new System.Windows.Forms.Timer(components);
+            label3 = new Label();
+            progressBar1 = new ProgressBar();
+            timer1 = new System.Windows.Forms.Timer(components);
+            SuspendLayout();
             // 
             // label1
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(146, 61);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(206, 65);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "NI Tutor";
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI Semibold", 36F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(146, 61);
+            label1.Name = "label1";
+            label1.Size = new Size(206, 65);
+            label1.TabIndex = 0;
+            label1.Text = "NI Tutor";
             // 
             // label2
             // 
-            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe Script", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(218, 142);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(292, 27);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Made By Ronit Shrivastav (RS7)";
+            label2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe Script", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(218, 142);
+            label2.Name = "label2";
+            label2.Size = new Size(292, 27);
+            label2.TabIndex = 1;
+            label2.Text = "Made By Ronit Shrivastav (RS7)";
             // 
             // timefader
             // 
-            this.timefader.Tick += new System.EventHandler(this.timefader_Tick);
+            timefader.Tick += timefader_Tick;
             // 
             // tmrwastetine
             // 
-            this.tmrwastetine.Interval = 1000;
-            this.tmrwastetine.Tick += new System.EventHandler(this.tmrwastetine_Tick);
+            tmrwastetine.Interval = 1000;
+            tmrwastetine.Tick += tmrwastetine_Tick;
             // 
             // label3
             // 
-            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(12, 9);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(282, 21);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Soon Update Come With A.I. Chatbot";
+            label3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label3.ForeColor = Color.White;
+            label3.Location = new Point(12, 9);
+            label3.Name = "label3";
+            label3.Size = new Size(282, 21);
+            label3.TabIndex = 2;
+            label3.Text = "Soon Update Come With A.I. Chatbot";
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(-2, 189);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(523, 23);
-            this.progressBar1.Step = 1;
-            this.progressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
-            this.progressBar1.TabIndex = 1;
+            progressBar1.ForeColor = Color.DodgerBlue;
+            progressBar1.Location = new Point(-2, 189);
+            progressBar1.Name = "progressBar1";
+            progressBar1.Size = new Size(523, 23);
+            progressBar1.Step = 20;
+            progressBar1.TabIndex = 0;
             // 
             // timer1
             // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            timer1.Tick += timer1_Tick;
             // 
             // startup_age
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(522, 213);
-            this.Controls.Add(this.progressBar1);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "startup_age";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Load += new System.EventHandler(this.startup_age_Load);
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(522, 213);
+            Controls.Add(progressBar1);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "startup_age";
+            StartPosition = FormStartPosition.CenterScreen;
+            Load += startup_age_Load;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

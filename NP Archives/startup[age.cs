@@ -38,10 +38,10 @@ namespace NP_Archives
         private void startup_age_Load(object sender, EventArgs e)
         {
             timer1.Start();
-            
-           
+
+
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
-           
+
         }
 
         private void timefader_Tick(object sender, EventArgs e)
@@ -53,7 +53,7 @@ namespace NP_Archives
             }
             else
                 kill_tmrFader();
-            
+
         }
         homepage hmp = new homepage();
 
@@ -71,7 +71,7 @@ namespace NP_Archives
             timer1.Stop();
             tmrwastetine.Stop();
             timefader.Start();
-            
+
         }
 
         private async void timer1_Tick(object sender, EventArgs e)

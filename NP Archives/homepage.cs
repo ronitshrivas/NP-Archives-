@@ -31,6 +31,7 @@ namespace NP_Archives
         public homepage()
         {
             InitializeComponent();
+            /*
             formOriginalSize = this.Size;
             recschoolbtn = new Rectangle(button6.Location, button6.Size);
             collegebtn = new Rectangle(btncollegelevel.Location, btncollegelevel.Size);
@@ -41,6 +42,7 @@ namespace NP_Archives
             reccollegepic = new Rectangle(pictureBox1.Location, pictureBox1.Size);
             recbachelorpic = new Rectangle(pictureBox3.Location, pictureBox3.Size);
             recprogrammingpic = new Rectangle(pictureBox4.Location, pictureBox4.Size);
+            */
 
             //button6.FlatAppearance.BorderSize = 0;
             // button6.Paint += button6_Paint;
@@ -262,7 +264,7 @@ namespace NP_Archives
 
         private void homepage_Resize(object sender, EventArgs e)
         {
-            resize_Control(button6, recschoolbtn);
+          /*  resize_Control(button6, recschoolbtn);
             resize_Control(btncollegelevel, collegebtn);
             resize_Control(button2, bachelorbtn);
             resize_Control(button1, programmingbtn);
@@ -271,6 +273,7 @@ namespace NP_Archives
             resize_Control(pictureBox1, reccollegepic);
             resize_Control(pictureBox3, recbachelorpic);
             resize_Control(pictureBox4, recprogrammingpic);
+          */
         }
 
 
