@@ -31,7 +31,6 @@ namespace NP_Archives
         public homepage()
         {
             InitializeComponent();
-            this.Resize += homepage_Resize;
             formOriginalSize = this.Size;
             recschoolbtn = new Rectangle(button6.Location, button6.Size);
             collegebtn = new Rectangle(btncollegelevel.Location, btncollegelevel.Size);
