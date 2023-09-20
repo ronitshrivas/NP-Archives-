@@ -41,10 +41,10 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
         private async void InitBrowser()
         {
             await initizated();
-          
+
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1NJTjVnemDk4-aUjyHuum0onnSA2l7qXu");
             //webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1-YRw8fYvEyDEoSNmBs2TxdVLpg0p9Vvt");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1wiTjNSKs0iIHdARrhDciHUGly3pkLiBy");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1wiTjNSKs0iIHdARrhDciHUGly3pkLiBy");
         }
 
         private void wirelessnetworking_Load(object sender, EventArgs e)

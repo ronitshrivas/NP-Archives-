@@ -30,7 +30,7 @@ namespace NP_Archives.class_12
         private async Task initizated()
         {
             await webView21.EnsureCoreWebView2Async(null);
-            
+
 
         }
 
@@ -38,7 +38,7 @@ namespace NP_Archives.class_12
         {
             await initizated();
             webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1I0i9FduLGZIZXPi3ifjH6Aq0QG65lSGj");
-           
+
         }
 
         private void class12zoology_Load(object sender, EventArgs e)

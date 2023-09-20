@@ -23,7 +23,7 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
         private string pdfurlpart3 = "https://drive.google.com/uc?export=view&id=1E2QUaz6gPokzmgUtsrV160G_MDUuRtm2";
         private string pdffilname = "csit6semneuralnetworksreferencebook"; //
         private string localfilepath3;
-        
+
         public neuralnetwork()
         {
             InitializeComponent();

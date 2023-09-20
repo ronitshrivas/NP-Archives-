@@ -36,8 +36,8 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1boJXLf38JzIUSHmBzG2CuAhUEsNoaa2Z");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1jk-8IU4xyiKZJdFEYG7KvZTljqkYvFCD");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1boJXLf38JzIUSHmBzG2CuAhUEsNoaa2Z");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1jk-8IU4xyiKZJdFEYG7KvZTljqkYvFCD");
         }
         private void appliedlogic_Load(object sender, EventArgs e)
         {

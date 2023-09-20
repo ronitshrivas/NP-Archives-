@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
 {
     public partial class operatingsystem : Form
     {
-     
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1A5Pb2CqDrkCk_bOShDFfaFj7odOSscUW";
         private string pdfFileName = "csit4semossolnbook"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");
@@ -34,7 +34,7 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
             InitializeComponent();
             localFilePath = Path.Combine(pdfFolderPath, pdfFileName);
             localfilepaths = Path.Combine(pdfFolderPath, engpdfquestion);
-           // localfilepath3 = Path.Combine(pdfFolderPath, pdffilname);
+            // localfilepath3 = Path.Combine(pdfFolderPath, pdffilname);
             localfilepath4 = Path.Combine(pdfFolderPath, pdffilname4);
             localfilepath5 = Path.Combine(pdfFolderPath, pdffilname5);
         }
@@ -126,27 +126,27 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
             }
         }
 
-       /* private async void loadtextbookI()
-        {
-            await initizated();
-            if (File.Exists(localfilepath3))
-            {
-                try
-                {
-                    button3.Visible = false;
-                    button3.Dispose();
-                    button3 = null;
+        /* private async void loadtextbookI()
+         {
+             await initizated();
+             if (File.Exists(localfilepath3))
+             {
+                 try
+                 {
+                     button3.Visible = false;
+                     button3.Dispose();
+                     button3 = null;
 
-                    // Load the PDF file into the WebView control.
-                    webView24.CoreWebView2.Navigate(localfilepath3); // You can also use the Url property if you have a direct URL to the PDF.
-                }
-                catch (Exception ex)
-                {
-                    button3.Visible = true;
-                }
-            }
-        }
-       */
+                     // Load the PDF file into the WebView control.
+                     webView24.CoreWebView2.Navigate(localfilepath3); // You can also use the Url property if you have a direct URL to the PDF.
+                 }
+                 catch (Exception ex)
+                 {
+                     button3.Visible = true;
+                 }
+             }
+         }
+        */
 
         private async void loadexamquestion()
         {
@@ -310,41 +310,41 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
 
         private void button3_Click(object sender, EventArgs e)
         {
-           // button3.Enabled = false;
+            // button3.Enabled = false;
 
-           // downloadtextbookI();
+            // downloadtextbookI();
         }
 
         private async void downloadtextbookI()
         {
             await initizated();
 
-           /* try
-            {
-                using (HttpClient client = new HttpClient())
-                {
-                    client.Timeout = TimeSpan.FromSeconds(300);
-                    // Create the PDF folder if it doesn't exist.
-                    if (!Directory.Exists(pdfFolderPath))
-                        Directory.CreateDirectory(pdfFolderPath);
+            /* try
+             {
+                 using (HttpClient client = new HttpClient())
+                 {
+                     client.Timeout = TimeSpan.FromSeconds(300);
+                     // Create the PDF folder if it doesn't exist.
+                     if (!Directory.Exists(pdfFolderPath))
+                         Directory.CreateDirectory(pdfFolderPath);
 
-                    // Download the PDF file and save it to the PDF folder.
-                    byte[] pdfData = await client.GetByteArrayAsync(pdfurlpart3);
-                    File.WriteAllBytes(localfilepath3, pdfData);
-                    //Note Ronit that if pdf is downloaded then button will hide
-                    button3.Visible = false;
-                    button3.Dispose();
-                    button3 = null;
+                     // Download the PDF file and save it to the PDF folder.
+                     byte[] pdfData = await client.GetByteArrayAsync(pdfurlpart3);
+                     File.WriteAllBytes(localfilepath3, pdfData);
+                     //Note Ronit that if pdf is downloaded then button will hide
+                     button3.Visible = false;
+                     button3.Dispose();
+                     button3 = null;
 
-                    // Load the PDF file into the WebView control.
-                    webView24.CoreWebView2.Navigate(localfilepath3); // You can also use the Url property if you have a direct URL to the PDF.
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Failed to download File: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-           */
+                     // Load the PDF file into the WebView control.
+                     webView24.CoreWebView2.Navigate(localfilepath3); // You can also use the Url property if you have a direct URL to the PDF.
+                 }
+             }
+             catch (Exception ex)
+             {
+                 MessageBox.Show($"Failed to download File: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+             }
+            */
         }
 
         private async void button4_Click(object sender, EventArgs e)

@@ -28,115 +28,113 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.backbtn = new System.Windows.Forms.Button();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.Practicalcopypage = new System.Windows.Forms.TabPage();
-            this.button1 = new System.Windows.Forms.Button();
-            this.webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.tabControl1.SuspendLayout();
-            this.Practicalcopypage.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
-            this.SuspendLayout();
+            label1 = new Label();
+            backbtn = new Button();
+            tabControl1 = new TabControl();
+            Practicalcopypage = new TabPage();
+            button1 = new Button();
+            webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            tabControl1.SuspendLayout();
+            Practicalcopypage.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView24).BeginInit();
+            SuspendLayout();
             // 
             // label1
             // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(516, 4);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(152, 23);
-            this.label1.TabIndex = 63;
-            this.label1.Text = "Class 12 BOTANY";
+            label1.Anchor = AnchorStyles.Top;
+            label1.AutoSize = true;
+            label1.Font = new Font("Comic Sans MS", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(516, 4);
+            label1.Name = "label1";
+            label1.Size = new Size(152, 23);
+            label1.TabIndex = 63;
+            label1.Text = "Class 12 BOTANY";
             // 
             // backbtn
             // 
-            this.backbtn.AutoSize = true;
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(1, 4);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 40);
-            this.backbtn.TabIndex = 62;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.AutoSize = true;
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(1, 4);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 40);
+            backbtn.TabIndex = 62;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // tabControl1
             // 
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.tabControl1.Controls.Add(this.Practicalcopypage);
-            this.tabControl1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.tabControl1.Location = new System.Drawing.Point(1, 47);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1214, 557);
-            this.tabControl1.TabIndex = 64;
+            tabControl1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tabControl1.Controls.Add(Practicalcopypage);
+            tabControl1.Font = new Font("Comic Sans MS", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
+            tabControl1.Location = new Point(1, 47);
+            tabControl1.Name = "tabControl1";
+            tabControl1.SelectedIndex = 0;
+            tabControl1.Size = new Size(1214, 557);
+            tabControl1.TabIndex = 64;
             // 
             // Practicalcopypage
             // 
-            this.Practicalcopypage.Controls.Add(this.button1);
-            this.Practicalcopypage.Controls.Add(this.webView24);
-            this.Practicalcopypage.Location = new System.Drawing.Point(4, 28);
-            this.Practicalcopypage.Name = "Practicalcopypage";
-            this.Practicalcopypage.Size = new System.Drawing.Size(1206, 525);
-            this.Practicalcopypage.TabIndex = 3;
-            this.Practicalcopypage.Text = "Practical Copy";
-            this.Practicalcopypage.UseVisualStyleBackColor = true;
+            Practicalcopypage.Controls.Add(button1);
+            Practicalcopypage.Controls.Add(webView24);
+            Practicalcopypage.Location = new Point(4, 28);
+            Practicalcopypage.Name = "Practicalcopypage";
+            Practicalcopypage.Size = new Size(1206, 525);
+            Practicalcopypage.TabIndex = 3;
+            Practicalcopypage.Text = "Practical Copy";
+            Practicalcopypage.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(548, 234);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 46);
-            this.button1.TabIndex = 75;
-            this.button1.Text = "! Download";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Anchor = AnchorStyles.None;
+            button1.BackColor = Color.FromArgb(0, 192, 0);
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(548, 234);
+            button1.Name = "button1";
+            button1.Size = new Size(120, 46);
+            button1.TabIndex = 75;
+            button1.Text = "! Download";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // webView24
             // 
-            this.webView24.AllowExternalDrop = true;
-            this.webView24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView24.CreationProperties = null;
-            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView24.Location = new System.Drawing.Point(0, 0);
-            this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1206, 525);
-            this.webView24.TabIndex = 1;
-            this.webView24.ZoomFactor = 1D;
+            webView24.AllowExternalDrop = true;
+            webView24.BackColor = Color.FromArgb(45, 54, 76);
+            webView24.CreationProperties = null;
+            webView24.DefaultBackgroundColor = Color.White;
+            webView24.Dock = DockStyle.Fill;
+            webView24.Location = new Point(0, 0);
+            webView24.Name = "webView24";
+            webView24.Size = new Size(1206, 525);
+            webView24.TabIndex = 1;
+            webView24.ZoomFactor = 1D;
             // 
             // class12botany
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.tabControl1);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.backbtn);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "class12botany";
-            this.Text = "class12botany";
-            this.Load += new System.EventHandler(this.class12botany_Load);
-            this.tabControl1.ResumeLayout(false);
-            this.Practicalcopypage.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(tabControl1);
+            Controls.Add(label1);
+            Controls.Add(backbtn);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "class12botany";
+            Text = "class12botany";
+            Load += class12botany_Load;
+            tabControl1.ResumeLayout(false);
+            Practicalcopypage.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView24).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

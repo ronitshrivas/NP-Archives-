@@ -52,10 +52,10 @@ namespace NP_Archives.class_12
         private async void InitBrowser()
         {
             await initizated();
-          //  webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1YOItaeTAsNMWr6sMrntRvvAVThb4NY2K");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1K_52QP0PesN1tk-fcAski66R5aqKCfEA");
-          //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1uDI_GT8b2StvsuDHn540nj4rFHM8lOi0");
-           // webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Eev3HRCMM0vfQQurVqjB33qFS3L_QriZ");
+            //  webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1YOItaeTAsNMWr6sMrntRvvAVThb4NY2K");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1K_52QP0PesN1tk-fcAski66R5aqKCfEA");
+            //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1uDI_GT8b2StvsuDHn540nj4rFHM8lOi0");
+            // webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Eev3HRCMM0vfQQurVqjB33qFS3L_QriZ");
         }
 
         private void class12physics_Load(object sender, EventArgs e)

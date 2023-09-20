@@ -205,6 +205,7 @@
             button10.AutoSize = true;
             button10.BackColor = Color.FromArgb(45, 54, 76);
             button10.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            button10.FlatAppearance.BorderSize = 0;
             button10.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
             button10.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
             button10.FlatStyle = FlatStyle.Flat;

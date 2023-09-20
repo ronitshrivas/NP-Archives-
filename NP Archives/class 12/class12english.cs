@@ -46,8 +46,8 @@ namespace NP_Archives.class_12
         {
             await initizated();
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=11TIXpOuSXJ4mSe9FD86bp-ewiugxYPWo");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=101hF4nalVguGYovAB8So24kL3o7jdO0t");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1k7IslE23ubIk-KWbC0HazQ3LCymUklO_");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=101hF4nalVguGYovAB8So24kL3o7jdO0t");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1k7IslE23ubIk-KWbC0HazQ3LCymUklO_");
         }
 
         private void class12english_Load(object sender, EventArgs e)

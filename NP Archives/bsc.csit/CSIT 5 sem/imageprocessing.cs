@@ -254,7 +254,7 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.Timeout = TimeSpan.FromSeconds(300); 
+                    client.Timeout = TimeSpan.FromSeconds(300);
                     // Create the PDF folder if it doesn't exist.
                     if (!Directory.Exists(pdfFolderPath))
                         Directory.CreateDirectory(pdfFolderPath);
@@ -318,7 +318,8 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
         }
 
         private async void button4_Click(object sender, EventArgs e)
-        {await initizated();
+        {
+            await initizated();
             button4.Enabled = false;
             downloadexamquestion();
             button4.Text = string.Empty;

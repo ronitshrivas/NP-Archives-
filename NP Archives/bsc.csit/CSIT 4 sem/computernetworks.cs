@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
 {
     public partial class computernetworks : Form
     {
-        
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1HrQSH2Ii3ZEmpi4apQrOtQhE26XNfGb5";
         private string pdfFileName = "csit4semcomputernetworksnotes"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");

@@ -46,8 +46,8 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             string openexampdffile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Math Exam question.pdf";
            // System.IO.File.WriteAllBytes(openexampdffile, Properties.Resources.Mathematics_Exam_Question);///the resource automatically creates            
             webView23.CoreWebView2.Navigate(openexampdffile);*/
-           
-           
+
+
         }
         private void mathematics_Load(object sender, EventArgs e)
         {

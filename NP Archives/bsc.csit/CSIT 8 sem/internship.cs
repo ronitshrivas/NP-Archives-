@@ -38,11 +38,11 @@ namespace NP_Archives.bsc.csit.CSIT_8_sem
         private async void InitBrowser()
         {
             await initizated();
-            
+
             String openPDFFile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Internship Syllabus.pdf";//PDF DOc name
             System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Internship_Syllabus);///the resource automatically creates            
             webView22.CoreWebView2.Navigate(openPDFFile);
-           
+
             // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1bT3nD34Fw3fWTmVnnKDXxqxEw-bN6oU7");
         }
         private void internship_Load(object sender, EventArgs e)

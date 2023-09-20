@@ -41,8 +41,8 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=16REGOu4zP8EI7DfI9oyv8Ermtvka5xKC");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1mkub-tjb6V7gMERqUFX0-B10uYyMY9Pz");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=16REGOu4zP8EI7DfI9oyv8Ermtvka5xKC");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1mkub-tjb6V7gMERqUFX0-B10uYyMY9Pz");
         }
 
         private void class10sst_Load(object sender, EventArgs e)

@@ -80,9 +80,9 @@ namespace NP_Archives.bsc.csit.CSIT_8_sem
             loadfundamentaldb();
         }
 
-       
 
-        private async  void loadfundamentaldb()
+
+        private async void loadfundamentaldb()
         {
             await initizated();
             if (File.Exists(localfilepath6))

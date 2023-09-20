@@ -355,7 +355,8 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
         }
 
         private async void button5_Click(object sender, EventArgs e)
-        {await initizated();
+        {
+            await initizated();
             button5.Enabled = false;
             downloadtextbookIII();
             button5.Text = string.Empty;

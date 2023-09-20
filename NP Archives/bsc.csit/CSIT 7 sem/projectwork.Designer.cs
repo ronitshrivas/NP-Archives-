@@ -28,101 +28,99 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.backbtn = new System.Windows.Forms.Button();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.textbookpage = new System.Windows.Forms.TabPage();
-            this.button1 = new System.Windows.Forms.Button();
-            this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.tabControl1.SuspendLayout();
-            this.textbookpage.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
-            this.SuspendLayout();
+            backbtn = new Button();
+            tabControl1 = new TabControl();
+            textbookpage = new TabPage();
+            button1 = new Button();
+            webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            tabControl1.SuspendLayout();
+            textbookpage.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView21).BeginInit();
+            SuspendLayout();
             // 
             // backbtn
             // 
-            this.backbtn.AutoSize = true;
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(8, 4);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 40);
-            this.backbtn.TabIndex = 67;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.AutoSize = true;
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(8, 4);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 40);
+            backbtn.TabIndex = 67;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // tabControl1
             // 
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.tabControl1.Controls.Add(this.textbookpage);
-            this.tabControl1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.tabControl1.Location = new System.Drawing.Point(1, 47);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1210, 557);
-            this.tabControl1.TabIndex = 66;
+            tabControl1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tabControl1.Controls.Add(textbookpage);
+            tabControl1.Font = new Font("Comic Sans MS", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
+            tabControl1.Location = new Point(1, 47);
+            tabControl1.Name = "tabControl1";
+            tabControl1.SelectedIndex = 0;
+            tabControl1.Size = new Size(1210, 557);
+            tabControl1.TabIndex = 66;
             // 
             // textbookpage
             // 
-            this.textbookpage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.textbookpage.Controls.Add(this.button1);
-            this.textbookpage.Controls.Add(this.webView21);
-            this.textbookpage.Location = new System.Drawing.Point(4, 28);
-            this.textbookpage.Name = "textbookpage";
-            this.textbookpage.Padding = new System.Windows.Forms.Padding(3);
-            this.textbookpage.Size = new System.Drawing.Size(1202, 525);
-            this.textbookpage.TabIndex = 0;
-            this.textbookpage.Text = "Proposal Format";
+            textbookpage.BackColor = Color.FromArgb(45, 54, 76);
+            textbookpage.Controls.Add(button1);
+            textbookpage.Controls.Add(webView21);
+            textbookpage.Location = new Point(4, 28);
+            textbookpage.Name = "textbookpage";
+            textbookpage.Padding = new Padding(3);
+            textbookpage.Size = new Size(1202, 525);
+            textbookpage.TabIndex = 0;
+            textbookpage.Text = "Proposal Format";
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(548, 234);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 46);
-            this.button1.TabIndex = 74;
-            this.button1.Text = "! Download";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Anchor = AnchorStyles.None;
+            button1.BackColor = Color.FromArgb(0, 192, 0);
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(548, 234);
+            button1.Name = "button1";
+            button1.Size = new Size(120, 46);
+            button1.TabIndex = 74;
+            button1.Text = "! Download";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // webView21
             // 
-            this.webView21.AllowExternalDrop = true;
-            this.webView21.CreationProperties = null;
-            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView21.Location = new System.Drawing.Point(3, 3);
-            this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1196, 519);
-            this.webView21.TabIndex = 0;
-            this.webView21.ZoomFactor = 1D;
+            webView21.AllowExternalDrop = true;
+            webView21.CreationProperties = null;
+            webView21.DefaultBackgroundColor = Color.White;
+            webView21.Dock = DockStyle.Fill;
+            webView21.Location = new Point(3, 3);
+            webView21.Name = "webView21";
+            webView21.Size = new Size(1196, 519);
+            webView21.TabIndex = 0;
+            webView21.ZoomFactor = 1D;
             // 
             // projectwork
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.backbtn);
-            this.Controls.Add(this.tabControl1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "projectwork";
-            this.Text = "projectwork";
-            this.Load += new System.EventHandler(this.projectwork_Load);
-            this.tabControl1.ResumeLayout(false);
-            this.textbookpage.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(backbtn);
+            Controls.Add(tabControl1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "projectwork";
+            Text = "projectwork";
+            Load += projectwork_Load;
+            tabControl1.ResumeLayout(false);
+            textbookpage.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView21).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

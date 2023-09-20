@@ -34,7 +34,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
 
         private string fileUrl = "https://drive.google.com/uc?export=view&id=16HlBRZDJCVE4ak5lXw5H8NtwMA9lcIXd";
 
-       private bool isPdfDownloaded;
+        private bool isPdfDownloaded;
 
         public informationtechnology()
         {
@@ -42,20 +42,20 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             // isPdfDownloaded = CheckIfPdfDownloaded();
         }
 
-      
+
 
         private async void informationtechnology_Load(object sender, EventArgs f)
         {
             await initizated();
             InitBrowser();
-           LoadSettings();
+            LoadSettings();
             loaditexamquestion();
         }
 
         private async void loaditexamquestion()
         {
             await initizated();
-           
+
             isPdfDownloaded = Properties.Settings.Default.IsPdfDownloaded;
             if (isPdfDownloaded)
             {
@@ -71,7 +71,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
                 string localFolderPath = Path.Combine(Application.StartupPath, "Resources.resources");
                 string localFilePath;
                 localFilePath = Path.Combine(localFolderPath, pdfFileName);
-               // string opennotespdffile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"1sem it question.pdf";
+                // string opennotespdffile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"1sem it question.pdf";
                 webView25.CoreWebView2.Navigate(localFilePath);
             }
             else
@@ -97,9 +97,9 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Introduction_to_Information_Technology_Syllabus);///the resource automatically creates            
             webView24.CoreWebView2.Navigate(openPDFFile);
             //string opennotespdffile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Introduction to Information Technology Note.pdf";
-             //System.IO.File.WriteAllBytes(opennotespdffile, Properties.Resources.Introduction_to_Information_Technology_Note);///the resource automatically creates            
+            //System.IO.File.WriteAllBytes(opennotespdffile, Properties.Resources.Introduction_to_Information_Technology_Note);///the resource automatically creates            
             //webView22.CoreWebView2.Navigate(opennotespdffile);
-            
+
             // webView21.NavigateToString(@"C:\C++ book.pdf");
             //webView21.CoreWebView2.Navigate(@"C:\C++ book.pdf");
             //webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=16HlBRZDJCVE4ak5lXw5H8NtwMA9lcIXd");
@@ -115,7 +115,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
         {
 
         }
-        
+
         private async void LoadSettings()
         {
             await initizated();
@@ -162,9 +162,9 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
                         resourceWriter.AddResource("Introduction to Information Technology Note.pdf", contentStream);
                         resourceWriter.Generate();
                     }
-                        itnotesbtn.Visible = false;
-                        itnotesbtn.Dispose();
-                        itnotesbtn = null;
+                    itnotesbtn.Visible = false;
+                    itnotesbtn.Dispose();
+                    itnotesbtn = null;
                     MessageBox.Show("Your IT Notes has been Downloaded. Thank Your :)");
                 }
                 catch (Exception ex)
@@ -189,7 +189,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             questionbtn.Enabled = false;
 
             Downloaditexamqs();
-            
+
         }
 
         private async void Downloaditexamqs()
@@ -229,7 +229,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
 
         private void SaveSettingsofitquestion()
         {
-              Properties.Settings.Default.IsPdfDownloaded = true;
+            Properties.Settings.Default.IsPdfDownloaded = true;
             Properties.Settings.Default.Save();
         }
 

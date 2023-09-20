@@ -20,7 +20,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
         private string engpdfquestion = "1semphysicexamquestion"; //
         private string localfilepaths;
         Random rnd = new Random();
-       
+
         public physics()
         {
             InitializeComponent();
@@ -43,8 +43,8 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
         private async void InitBrowser()
         {
             await initizated();
-           String openPDFFile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Physics (PHY113).pdf";//PDF DOc name
-         System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Physics__PHY113_);///the resource automatically creates            
+            String openPDFFile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Physics (PHY113).pdf";//PDF DOc name
+            System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Physics__PHY113_);///the resource automatically creates            
             webView21.CoreWebView2.Navigate(openPDFFile);
             /*
             string opennotespdffile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"1sem notes.pdf";
@@ -65,7 +65,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
 
         private async void Loadmodelquestion()
         {
-           
+
             await initizated();
             if (File.Exists(localfilepaths))
             {

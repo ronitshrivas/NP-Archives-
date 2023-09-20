@@ -28,393 +28,389 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.backbtn = new System.Windows.Forms.Button();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.textbookpage = new System.Windows.Forms.TabPage();
-            this.button1 = new System.Windows.Forms.Button();
-            this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.textbookpage2 = new System.Windows.Forms.TabPage();
-            this.button2 = new System.Windows.Forms.Button();
-            this.webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.questionbanksoln1page = new System.Windows.Forms.TabPage();
-            this.button3 = new System.Windows.Forms.Button();
-            this.webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.questionbanksoln2page = new System.Windows.Forms.TabPage();
-            this.button4 = new System.Windows.Forms.Button();
-            this.webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.questionbanksoln3page = new System.Windows.Forms.TabPage();
-            this.button5 = new System.Windows.Forms.Button();
-            this.webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.modelquestionsoln = new System.Windows.Forms.TabPage();
-            this.button6 = new System.Windows.Forms.Button();
-            this.webView26 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.modelpaper = new System.Windows.Forms.TabPage();
-            this.button7 = new System.Windows.Forms.Button();
-            this.webView27 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.tabControl1.SuspendLayout();
-            this.textbookpage.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
-            this.textbookpage2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView22)).BeginInit();
-            this.questionbanksoln1page.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView23)).BeginInit();
-            this.questionbanksoln2page.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
-            this.questionbanksoln3page.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView25)).BeginInit();
-            this.modelquestionsoln.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView26)).BeginInit();
-            this.modelpaper.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView27)).BeginInit();
-            this.SuspendLayout();
+            label1 = new Label();
+            backbtn = new Button();
+            tabControl1 = new TabControl();
+            textbookpage = new TabPage();
+            button1 = new Button();
+            webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            textbookpage2 = new TabPage();
+            button2 = new Button();
+            webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            questionbanksoln1page = new TabPage();
+            button3 = new Button();
+            webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            questionbanksoln2page = new TabPage();
+            button4 = new Button();
+            webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            questionbanksoln3page = new TabPage();
+            button5 = new Button();
+            webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            modelquestionsoln = new TabPage();
+            button6 = new Button();
+            webView26 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            modelpaper = new TabPage();
+            button7 = new Button();
+            webView27 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            tabControl1.SuspendLayout();
+            textbookpage.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView21).BeginInit();
+            textbookpage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView22).BeginInit();
+            questionbanksoln1page.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView23).BeginInit();
+            questionbanksoln2page.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView24).BeginInit();
+            questionbanksoln3page.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView25).BeginInit();
+            modelquestionsoln.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView26).BeginInit();
+            modelpaper.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView27).BeginInit();
+            SuspendLayout();
             // 
             // label1
             // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(516, 4);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(143, 23);
-            this.label1.TabIndex = 63;
-            this.label1.Text = "Class 11 MATHS";
+            label1.Anchor = AnchorStyles.Top;
+            label1.AutoSize = true;
+            label1.Font = new Font("Comic Sans MS", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(516, 4);
+            label1.Name = "label1";
+            label1.Size = new Size(143, 23);
+            label1.TabIndex = 63;
+            label1.Text = "Class 11 MATHS";
             // 
             // backbtn
             // 
-            this.backbtn.AutoSize = true;
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(8, 4);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 40);
-            this.backbtn.TabIndex = 62;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.AutoSize = true;
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(8, 4);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 40);
+            backbtn.TabIndex = 62;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // tabControl1
             // 
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.tabControl1.Controls.Add(this.textbookpage);
-            this.tabControl1.Controls.Add(this.textbookpage2);
-            this.tabControl1.Controls.Add(this.questionbanksoln1page);
-            this.tabControl1.Controls.Add(this.questionbanksoln2page);
-            this.tabControl1.Controls.Add(this.questionbanksoln3page);
-            this.tabControl1.Controls.Add(this.modelquestionsoln);
-            this.tabControl1.Controls.Add(this.modelpaper);
-            this.tabControl1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.tabControl1.Location = new System.Drawing.Point(1, 48);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1210, 557);
-            this.tabControl1.TabIndex = 61;
+            tabControl1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tabControl1.Controls.Add(textbookpage);
+            tabControl1.Controls.Add(textbookpage2);
+            tabControl1.Controls.Add(questionbanksoln1page);
+            tabControl1.Controls.Add(questionbanksoln2page);
+            tabControl1.Controls.Add(questionbanksoln3page);
+            tabControl1.Controls.Add(modelquestionsoln);
+            tabControl1.Controls.Add(modelpaper);
+            tabControl1.Font = new Font("Comic Sans MS", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
+            tabControl1.Location = new Point(1, 48);
+            tabControl1.Name = "tabControl1";
+            tabControl1.SelectedIndex = 0;
+            tabControl1.Size = new Size(1210, 557);
+            tabControl1.TabIndex = 61;
             // 
             // textbookpage
             // 
-            this.textbookpage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.textbookpage.Controls.Add(this.button1);
-            this.textbookpage.Controls.Add(this.webView21);
-            this.textbookpage.Location = new System.Drawing.Point(4, 28);
-            this.textbookpage.Name = "textbookpage";
-            this.textbookpage.Padding = new System.Windows.Forms.Padding(3);
-            this.textbookpage.Size = new System.Drawing.Size(1202, 525);
-            this.textbookpage.TabIndex = 0;
-            this.textbookpage.Text = "Text Book - 1";
+            textbookpage.BackColor = Color.FromArgb(45, 54, 76);
+            textbookpage.Controls.Add(button1);
+            textbookpage.Controls.Add(webView21);
+            textbookpage.Location = new Point(4, 28);
+            textbookpage.Name = "textbookpage";
+            textbookpage.Padding = new Padding(3);
+            textbookpage.Size = new Size(1202, 525);
+            textbookpage.TabIndex = 0;
+            textbookpage.Text = "Text Book - 1";
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(548, 234);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 46);
-            this.button1.TabIndex = 66;
-            this.button1.Text = "! Download";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Anchor = AnchorStyles.None;
+            button1.BackColor = Color.FromArgb(0, 192, 0);
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(548, 234);
+            button1.Name = "button1";
+            button1.Size = new Size(120, 46);
+            button1.TabIndex = 66;
+            button1.Text = "! Download";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // webView21
             // 
-            this.webView21.AllowExternalDrop = true;
-            this.webView21.CreationProperties = null;
-            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView21.Location = new System.Drawing.Point(3, 3);
-            this.webView21.Name = "webView21";
-            this.webView21.Size = new System.Drawing.Size(1196, 519);
-            this.webView21.TabIndex = 0;
-            this.webView21.ZoomFactor = 1D;
+            webView21.AllowExternalDrop = true;
+            webView21.CreationProperties = null;
+            webView21.DefaultBackgroundColor = Color.White;
+            webView21.Dock = DockStyle.Fill;
+            webView21.Location = new Point(3, 3);
+            webView21.Name = "webView21";
+            webView21.Size = new Size(1196, 519);
+            webView21.TabIndex = 0;
+            webView21.ZoomFactor = 1D;
             // 
             // textbookpage2
             // 
-            this.textbookpage2.Controls.Add(this.button2);
-            this.textbookpage2.Controls.Add(this.webView22);
-            this.textbookpage2.Location = new System.Drawing.Point(4, 28);
-            this.textbookpage2.Name = "textbookpage2";
-            this.textbookpage2.Size = new System.Drawing.Size(1202, 525);
-            this.textbookpage2.TabIndex = 2;
-            this.textbookpage2.Text = "Text Book - 2";
-            this.textbookpage2.UseVisualStyleBackColor = true;
+            textbookpage2.Controls.Add(button2);
+            textbookpage2.Controls.Add(webView22);
+            textbookpage2.Location = new Point(4, 28);
+            textbookpage2.Name = "textbookpage2";
+            textbookpage2.Size = new Size(1202, 525);
+            textbookpage2.TabIndex = 2;
+            textbookpage2.Text = "Text Book - 2";
+            textbookpage2.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(548, 234);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(120, 46);
-            this.button2.TabIndex = 66;
-            this.button2.Text = "! Download";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            button2.Anchor = AnchorStyles.None;
+            button2.BackColor = Color.FromArgb(0, 192, 0);
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.ForeColor = Color.White;
+            button2.Location = new Point(548, 234);
+            button2.Name = "button2";
+            button2.Size = new Size(120, 46);
+            button2.TabIndex = 66;
+            button2.Text = "! Download";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // webView22
             // 
-            this.webView22.AllowExternalDrop = true;
-            this.webView22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView22.CreationProperties = null;
-            this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView22.Location = new System.Drawing.Point(0, 0);
-            this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1202, 525);
-            this.webView22.TabIndex = 1;
-            this.webView22.ZoomFactor = 1D;
+            webView22.AllowExternalDrop = true;
+            webView22.BackColor = Color.FromArgb(45, 54, 76);
+            webView22.CreationProperties = null;
+            webView22.DefaultBackgroundColor = Color.White;
+            webView22.Dock = DockStyle.Fill;
+            webView22.Location = new Point(0, 0);
+            webView22.Name = "webView22";
+            webView22.Size = new Size(1202, 525);
+            webView22.TabIndex = 1;
+            webView22.ZoomFactor = 1D;
             // 
             // questionbanksoln1page
             // 
-            this.questionbanksoln1page.Controls.Add(this.button3);
-            this.questionbanksoln1page.Controls.Add(this.webView23);
-            this.questionbanksoln1page.Location = new System.Drawing.Point(4, 28);
-            this.questionbanksoln1page.Name = "questionbanksoln1page";
-            this.questionbanksoln1page.Size = new System.Drawing.Size(1202, 525);
-            this.questionbanksoln1page.TabIndex = 3;
-            this.questionbanksoln1page.Text = "Question Bank Solution-1";
-            this.questionbanksoln1page.UseVisualStyleBackColor = true;
+            questionbanksoln1page.Controls.Add(button3);
+            questionbanksoln1page.Controls.Add(webView23);
+            questionbanksoln1page.Location = new Point(4, 28);
+            questionbanksoln1page.Name = "questionbanksoln1page";
+            questionbanksoln1page.Size = new Size(1202, 525);
+            questionbanksoln1page.TabIndex = 3;
+            questionbanksoln1page.Text = "Question Bank Solution-1";
+            questionbanksoln1page.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
-            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(548, 234);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(120, 46);
-            this.button3.TabIndex = 66;
-            this.button3.Text = "! Download";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            button3.Anchor = AnchorStyles.None;
+            button3.BackColor = Color.FromArgb(0, 192, 0);
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.ForeColor = Color.White;
+            button3.Location = new Point(548, 234);
+            button3.Name = "button3";
+            button3.Size = new Size(120, 46);
+            button3.TabIndex = 66;
+            button3.Text = "! Download";
+            button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // webView23
             // 
-            this.webView23.AllowExternalDrop = true;
-            this.webView23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView23.CreationProperties = null;
-            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView23.Location = new System.Drawing.Point(0, 0);
-            this.webView23.Name = "webView23";
-            this.webView23.Size = new System.Drawing.Size(1202, 525);
-            this.webView23.TabIndex = 1;
-            this.webView23.ZoomFactor = 1D;
+            webView23.AllowExternalDrop = true;
+            webView23.BackColor = Color.FromArgb(45, 54, 76);
+            webView23.CreationProperties = null;
+            webView23.DefaultBackgroundColor = Color.White;
+            webView23.Dock = DockStyle.Fill;
+            webView23.Location = new Point(0, 0);
+            webView23.Name = "webView23";
+            webView23.Size = new Size(1202, 525);
+            webView23.TabIndex = 1;
+            webView23.ZoomFactor = 1D;
             // 
             // questionbanksoln2page
             // 
-            this.questionbanksoln2page.Controls.Add(this.button4);
-            this.questionbanksoln2page.Controls.Add(this.webView24);
-            this.questionbanksoln2page.Location = new System.Drawing.Point(4, 28);
-            this.questionbanksoln2page.Name = "questionbanksoln2page";
-            this.questionbanksoln2page.Size = new System.Drawing.Size(1202, 525);
-            this.questionbanksoln2page.TabIndex = 4;
-            this.questionbanksoln2page.Text = "Question Bank Solution-2";
-            this.questionbanksoln2page.UseVisualStyleBackColor = true;
+            questionbanksoln2page.Controls.Add(button4);
+            questionbanksoln2page.Controls.Add(webView24);
+            questionbanksoln2page.Location = new Point(4, 28);
+            questionbanksoln2page.Name = "questionbanksoln2page";
+            questionbanksoln2page.Size = new Size(1202, 525);
+            questionbanksoln2page.TabIndex = 4;
+            questionbanksoln2page.Text = "Question Bank Solution-2";
+            questionbanksoln2page.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
-            this.button4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Location = new System.Drawing.Point(548, 234);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(120, 46);
-            this.button4.TabIndex = 66;
-            this.button4.Text = "! Download";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            button4.Anchor = AnchorStyles.None;
+            button4.BackColor = Color.FromArgb(0, 192, 0);
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.ForeColor = Color.White;
+            button4.Location = new Point(548, 234);
+            button4.Name = "button4";
+            button4.Size = new Size(120, 46);
+            button4.TabIndex = 66;
+            button4.Text = "! Download";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // webView24
             // 
-            this.webView24.AllowExternalDrop = true;
-            this.webView24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView24.CreationProperties = null;
-            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView24.Location = new System.Drawing.Point(0, 0);
-            this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1202, 525);
-            this.webView24.TabIndex = 1;
-            this.webView24.ZoomFactor = 1D;
+            webView24.AllowExternalDrop = true;
+            webView24.BackColor = Color.FromArgb(45, 54, 76);
+            webView24.CreationProperties = null;
+            webView24.DefaultBackgroundColor = Color.White;
+            webView24.Dock = DockStyle.Fill;
+            webView24.Location = new Point(0, 0);
+            webView24.Name = "webView24";
+            webView24.Size = new Size(1202, 525);
+            webView24.TabIndex = 1;
+            webView24.ZoomFactor = 1D;
             // 
             // questionbanksoln3page
             // 
-            this.questionbanksoln3page.Controls.Add(this.button5);
-            this.questionbanksoln3page.Controls.Add(this.webView25);
-            this.questionbanksoln3page.Location = new System.Drawing.Point(4, 28);
-            this.questionbanksoln3page.Name = "questionbanksoln3page";
-            this.questionbanksoln3page.Size = new System.Drawing.Size(1202, 525);
-            this.questionbanksoln3page.TabIndex = 5;
-            this.questionbanksoln3page.Text = "Question Bank Solution-3";
-            this.questionbanksoln3page.UseVisualStyleBackColor = true;
+            questionbanksoln3page.Controls.Add(button5);
+            questionbanksoln3page.Controls.Add(webView25);
+            questionbanksoln3page.Location = new Point(4, 28);
+            questionbanksoln3page.Name = "questionbanksoln3page";
+            questionbanksoln3page.Size = new Size(1202, 525);
+            questionbanksoln3page.TabIndex = 5;
+            questionbanksoln3page.Text = "Question Bank Solution-3";
+            questionbanksoln3page.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
-            this.button5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.ForeColor = System.Drawing.Color.White;
-            this.button5.Location = new System.Drawing.Point(548, 234);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(120, 46);
-            this.button5.TabIndex = 66;
-            this.button5.Text = "! Download";
-            this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            button5.Anchor = AnchorStyles.None;
+            button5.BackColor = Color.FromArgb(0, 192, 0);
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.ForeColor = Color.White;
+            button5.Location = new Point(548, 234);
+            button5.Name = "button5";
+            button5.Size = new Size(120, 46);
+            button5.TabIndex = 66;
+            button5.Text = "! Download";
+            button5.UseVisualStyleBackColor = false;
+            button5.Click += button5_Click;
             // 
             // webView25
             // 
-            this.webView25.AllowExternalDrop = true;
-            this.webView25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView25.CreationProperties = null;
-            this.webView25.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView25.Location = new System.Drawing.Point(0, 0);
-            this.webView25.Name = "webView25";
-            this.webView25.Size = new System.Drawing.Size(1202, 525);
-            this.webView25.TabIndex = 1;
-            this.webView25.ZoomFactor = 1D;
+            webView25.AllowExternalDrop = true;
+            webView25.BackColor = Color.FromArgb(45, 54, 76);
+            webView25.CreationProperties = null;
+            webView25.DefaultBackgroundColor = Color.White;
+            webView25.Dock = DockStyle.Fill;
+            webView25.Location = new Point(0, 0);
+            webView25.Name = "webView25";
+            webView25.Size = new Size(1202, 525);
+            webView25.TabIndex = 1;
+            webView25.ZoomFactor = 1D;
             // 
             // modelquestionsoln
             // 
-            this.modelquestionsoln.Controls.Add(this.button6);
-            this.modelquestionsoln.Controls.Add(this.webView26);
-            this.modelquestionsoln.Location = new System.Drawing.Point(4, 28);
-            this.modelquestionsoln.Name = "modelquestionsoln";
-            this.modelquestionsoln.Size = new System.Drawing.Size(1202, 525);
-            this.modelquestionsoln.TabIndex = 6;
-            this.modelquestionsoln.Text = "Model Question Solution";
-            this.modelquestionsoln.UseVisualStyleBackColor = true;
+            modelquestionsoln.Controls.Add(button6);
+            modelquestionsoln.Controls.Add(webView26);
+            modelquestionsoln.Location = new Point(4, 28);
+            modelquestionsoln.Name = "modelquestionsoln";
+            modelquestionsoln.Size = new Size(1202, 525);
+            modelquestionsoln.TabIndex = 6;
+            modelquestionsoln.Text = "Model Question Solution";
+            modelquestionsoln.UseVisualStyleBackColor = true;
             // 
             // button6
             // 
-            this.button6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.ForeColor = System.Drawing.Color.White;
-            this.button6.Location = new System.Drawing.Point(548, 234);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(120, 46);
-            this.button6.TabIndex = 66;
-            this.button6.Text = "! Download";
-            this.button6.UseVisualStyleBackColor = false;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            button6.Anchor = AnchorStyles.None;
+            button6.BackColor = Color.FromArgb(0, 192, 0);
+            button6.FlatStyle = FlatStyle.Flat;
+            button6.ForeColor = Color.White;
+            button6.Location = new Point(548, 234);
+            button6.Name = "button6";
+            button6.Size = new Size(120, 46);
+            button6.TabIndex = 66;
+            button6.Text = "! Download";
+            button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
             // 
             // webView26
             // 
-            this.webView26.AllowExternalDrop = true;
-            this.webView26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView26.CreationProperties = null;
-            this.webView26.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView26.Location = new System.Drawing.Point(0, 0);
-            this.webView26.Name = "webView26";
-            this.webView26.Size = new System.Drawing.Size(1202, 525);
-            this.webView26.TabIndex = 1;
-            this.webView26.ZoomFactor = 1D;
+            webView26.AllowExternalDrop = true;
+            webView26.BackColor = Color.FromArgb(45, 54, 76);
+            webView26.CreationProperties = null;
+            webView26.DefaultBackgroundColor = Color.White;
+            webView26.Dock = DockStyle.Fill;
+            webView26.Location = new Point(0, 0);
+            webView26.Name = "webView26";
+            webView26.Size = new Size(1202, 525);
+            webView26.TabIndex = 1;
+            webView26.ZoomFactor = 1D;
             // 
             // modelpaper
             // 
-            this.modelpaper.Controls.Add(this.button7);
-            this.modelpaper.Controls.Add(this.webView27);
-            this.modelpaper.Location = new System.Drawing.Point(4, 28);
-            this.modelpaper.Name = "modelpaper";
-            this.modelpaper.Size = new System.Drawing.Size(1202, 525);
-            this.modelpaper.TabIndex = 7;
-            this.modelpaper.Text = "Model Paper";
-            this.modelpaper.UseVisualStyleBackColor = true;
+            modelpaper.Controls.Add(button7);
+            modelpaper.Controls.Add(webView27);
+            modelpaper.Location = new Point(4, 28);
+            modelpaper.Name = "modelpaper";
+            modelpaper.Size = new Size(1202, 525);
+            modelpaper.TabIndex = 7;
+            modelpaper.Text = "Model Paper";
+            modelpaper.UseVisualStyleBackColor = true;
             // 
             // button7
             // 
-            this.button7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button7.ForeColor = System.Drawing.Color.White;
-            this.button7.Location = new System.Drawing.Point(548, 234);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(120, 46);
-            this.button7.TabIndex = 66;
-            this.button7.Text = "! Download";
-            this.button7.UseVisualStyleBackColor = false;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
+            button7.Anchor = AnchorStyles.None;
+            button7.BackColor = Color.FromArgb(0, 192, 0);
+            button7.FlatStyle = FlatStyle.Flat;
+            button7.ForeColor = Color.White;
+            button7.Location = new Point(548, 234);
+            button7.Name = "button7";
+            button7.Size = new Size(120, 46);
+            button7.TabIndex = 66;
+            button7.Text = "! Download";
+            button7.UseVisualStyleBackColor = false;
+            button7.Click += button7_Click;
             // 
             // webView27
             // 
-            this.webView27.AllowExternalDrop = true;
-            this.webView27.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.webView27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView27.CreationProperties = null;
-            this.webView27.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView27.Location = new System.Drawing.Point(0, 0);
-            this.webView27.Name = "webView27";
-            this.webView27.Size = new System.Drawing.Size(1210, 534);
-            this.webView27.TabIndex = 1;
-            this.webView27.ZoomFactor = 1D;
+            webView27.AllowExternalDrop = true;
+            webView27.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            webView27.BackColor = Color.FromArgb(45, 54, 76);
+            webView27.CreationProperties = null;
+            webView27.DefaultBackgroundColor = Color.White;
+            webView27.Location = new Point(0, 0);
+            webView27.Name = "webView27";
+            webView27.Size = new Size(1210, 534);
+            webView27.TabIndex = 1;
+            webView27.ZoomFactor = 1D;
             // 
             // class11maths
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.backbtn);
-            this.Controls.Add(this.tabControl1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "class11maths";
-            this.Text = "class11maths";
-            this.Load += new System.EventHandler(this.class11maths_Load);
-            this.tabControl1.ResumeLayout(false);
-            this.textbookpage.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
-            this.textbookpage2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView22)).EndInit();
-            this.questionbanksoln1page.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView23)).EndInit();
-            this.questionbanksoln2page.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
-            this.questionbanksoln3page.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView25)).EndInit();
-            this.modelquestionsoln.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView26)).EndInit();
-            this.modelpaper.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView27)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(label1);
+            Controls.Add(backbtn);
+            Controls.Add(tabControl1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "class11maths";
+            Text = "class11maths";
+            Load += class11maths_Load;
+            tabControl1.ResumeLayout(false);
+            textbookpage.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView21).EndInit();
+            textbookpage2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView22).EndInit();
+            questionbanksoln1page.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView23).EndInit();
+            questionbanksoln2page.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView24).EndInit();
+            questionbanksoln3page.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView25).EndInit();
+            modelquestionsoln.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView26).EndInit();
+            modelpaper.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView27).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

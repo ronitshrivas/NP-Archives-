@@ -45,9 +45,9 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Ay70E4oPCTNvcQ5yZG3wrBVN-Q0ygaGR");
-          //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1_VRmfTfb5gynhufhNeotEFLzZPATnvZI");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1nX4L9hwejEQp2Ea1bHW_rfLvTvctifdX");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Ay70E4oPCTNvcQ5yZG3wrBVN-Q0ygaGR");
+            //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1_VRmfTfb5gynhufhNeotEFLzZPATnvZI");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1nX4L9hwejEQp2Ea1bHW_rfLvTvctifdX");
         }
 
         private void class9sst_Load(object sender, EventArgs e)

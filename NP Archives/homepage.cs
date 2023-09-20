@@ -264,16 +264,16 @@ namespace NP_Archives
 
         private void homepage_Resize(object sender, EventArgs e)
         {
-          /*  resize_Control(button6, recschoolbtn);
-            resize_Control(btncollegelevel, collegebtn);
-            resize_Control(button2, bachelorbtn);
-            resize_Control(button1, programmingbtn);
+            /*  resize_Control(button6, recschoolbtn);
+              resize_Control(btncollegelevel, collegebtn);
+              resize_Control(button2, bachelorbtn);
+              resize_Control(button1, programmingbtn);
 
-            resize_Control(pictureBox2, recschoolpic);
-            resize_Control(pictureBox1, reccollegepic);
-            resize_Control(pictureBox3, recbachelorpic);
-            resize_Control(pictureBox4, recprogrammingpic);
-          */
+              resize_Control(pictureBox2, recschoolpic);
+              resize_Control(pictureBox1, reccollegepic);
+              resize_Control(pictureBox3, recbachelorpic);
+              resize_Control(pictureBox4, recprogrammingpic);
+            */
         }
 
 

@@ -23,7 +23,7 @@ namespace NP_Archives
         public class10hpe()
         {
             InitializeComponent();
-             localFilePath = Path.Combine(pdfFolderPath, pdfFileName);
+            localFilePath = Path.Combine(pdfFolderPath, pdfFileName);
             localfilepaths = Path.Combine(pdfFolderPath, engpdfquestion);
         }
 
@@ -42,8 +42,8 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1cDAtPMZJLu-BQVYELhxEmv9HZ6KhLa03");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=14xeD2gGRo3uB4TW4pfkiCYy0zBxK5cvC");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1cDAtPMZJLu-BQVYELhxEmv9HZ6KhLa03");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=14xeD2gGRo3uB4TW4pfkiCYy0zBxK5cvC");
         }
 
         private void class10hpe_Load(object sender, EventArgs e)

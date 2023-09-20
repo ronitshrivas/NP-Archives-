@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
 {
     public partial class technicalwriting : Form
     {
-        
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=111CdPx_Mmj2INJj6vD2fczrzqsm3zrQ3";
         private string pdfFileName = "csit6semtechnicalwritingnotes"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");

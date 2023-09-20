@@ -37,7 +37,7 @@ namespace NP_Archives.class_12
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ekW2IumBLbN_2NnCzeqHYGEuPKOHnbpx");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ekW2IumBLbN_2NnCzeqHYGEuPKOHnbpx");
 
         }
 

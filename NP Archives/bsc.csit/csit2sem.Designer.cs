@@ -28,205 +28,203 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.backbtn = new System.Windows.Forms.Button();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.button4 = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.csit1stsem = new System.Windows.Forms.Button();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.SuspendLayout();
+            panel1 = new Panel();
+            backbtn = new Button();
+            pictureBox5 = new PictureBox();
+            button4 = new Button();
+            pictureBox4 = new PictureBox();
+            button3 = new Button();
+            pictureBox3 = new PictureBox();
+            button2 = new Button();
+            pictureBox2 = new PictureBox();
+            button1 = new Button();
+            pictureBox1 = new PictureBox();
+            csit1stsem = new Button();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.Controls.Add(this.backbtn);
-            this.panel1.Controls.Add(this.pictureBox5);
-            this.panel1.Controls.Add(this.button4);
-            this.panel1.Controls.Add(this.pictureBox4);
-            this.panel1.Controls.Add(this.button3);
-            this.panel1.Controls.Add(this.pictureBox3);
-            this.panel1.Controls.Add(this.button2);
-            this.panel1.Controls.Add(this.pictureBox2);
-            this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.csit1stsem);
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1213, 608);
-            this.panel1.TabIndex = 2;
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(backbtn);
+            panel1.Controls.Add(pictureBox5);
+            panel1.Controls.Add(button4);
+            panel1.Controls.Add(pictureBox4);
+            panel1.Controls.Add(button3);
+            panel1.Controls.Add(pictureBox3);
+            panel1.Controls.Add(button2);
+            panel1.Controls.Add(pictureBox2);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(pictureBox1);
+            panel1.Controls.Add(csit1stsem);
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1213, 608);
+            panel1.TabIndex = 2;
             // 
             // backbtn
             // 
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(12, 13);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
-            this.backbtn.TabIndex = 95;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(12, 13);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 37);
+            backbtn.TabIndex = 95;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox5.Image = global::NP_Archives.Properties.Resources.statitics2;
-            this.pictureBox5.Location = new System.Drawing.Point(629, 204);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(290, 144);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 94;
-            this.pictureBox5.TabStop = false;
+            pictureBox5.Anchor = AnchorStyles.None;
+            pictureBox5.Image = Properties.Resources.statitics2;
+            pictureBox5.Location = new Point(629, 204);
+            pictureBox5.Name = "pictureBox5";
+            pictureBox5.Size = new Size(290, 144);
+            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox5.TabIndex = 94;
+            pictureBox5.TabStop = false;
             // 
             // button4
             // 
-            this.button4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button4.BackColor = System.Drawing.Color.Lime;
-            this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Location = new System.Drawing.Point(682, 354);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(194, 35);
-            this.button4.TabIndex = 93;
-            this.button4.Text = "Statistics I";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            button4.Anchor = AnchorStyles.None;
+            button4.BackColor = Color.Lime;
+            button4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            button4.ForeColor = Color.White;
+            button4.Location = new Point(682, 354);
+            button4.Name = "button4";
+            button4.Size = new Size(194, 35);
+            button4.TabIndex = 93;
+            button4.Text = "Statistics I";
+            button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox4.Image = global::NP_Archives.Properties.Resources.mathematics2;
-            this.pictureBox4.Location = new System.Drawing.Point(629, 13);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(290, 144);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 92;
-            this.pictureBox4.TabStop = false;
+            pictureBox4.Anchor = AnchorStyles.None;
+            pictureBox4.Image = Properties.Resources.mathematics2;
+            pictureBox4.Location = new Point(629, 13);
+            pictureBox4.Name = "pictureBox4";
+            pictureBox4.Size = new Size(290, 144);
+            pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox4.TabIndex = 92;
+            pictureBox4.TabStop = false;
             // 
             // button3
             // 
-            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button3.BackColor = System.Drawing.Color.Lime;
-            this.button3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(682, 163);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(194, 35);
-            this.button3.TabIndex = 91;
-            this.button3.Text = "Mathematics-II";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            button3.Anchor = AnchorStyles.None;
+            button3.BackColor = Color.Lime;
+            button3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            button3.ForeColor = Color.White;
+            button3.Location = new Point(682, 163);
+            button3.Name = "button3";
+            button3.Size = new Size(194, 35);
+            button3.TabIndex = 91;
+            button3.Text = "Mathematics-II";
+            button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox3.Image = global::NP_Archives.Properties.Resources.microprocessor;
-            this.pictureBox3.Location = new System.Drawing.Point(294, 410);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(290, 144);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 90;
-            this.pictureBox3.TabStop = false;
+            pictureBox3.Anchor = AnchorStyles.None;
+            pictureBox3.Image = Properties.Resources.microprocessor;
+            pictureBox3.Location = new Point(294, 410);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(290, 144);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox3.TabIndex = 90;
+            pictureBox3.TabStop = false;
             // 
             // button2
             // 
-            this.button2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button2.BackColor = System.Drawing.Color.Lime;
-            this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(347, 560);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(194, 35);
-            this.button2.TabIndex = 89;
-            this.button2.Text = "Microprocessor";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            button2.Anchor = AnchorStyles.None;
+            button2.BackColor = Color.Lime;
+            button2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            button2.ForeColor = Color.White;
+            button2.Location = new Point(347, 560);
+            button2.Name = "button2";
+            button2.Size = new Size(194, 35);
+            button2.TabIndex = 89;
+            button2.Text = "Microprocessor";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox2.Image = global::NP_Archives.Properties.Resources.datastructure;
-            this.pictureBox2.Location = new System.Drawing.Point(294, 204);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(290, 144);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 88;
-            this.pictureBox2.TabStop = false;
+            pictureBox2.Anchor = AnchorStyles.None;
+            pictureBox2.Image = Properties.Resources.datastructure;
+            pictureBox2.Location = new Point(294, 204);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(290, 144);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 88;
+            pictureBox2.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.BackColor = System.Drawing.Color.Lime;
-            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(323, 354);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(237, 35);
-            this.button1.TabIndex = 87;
-            this.button1.Text = "object-oriented Programming";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Anchor = AnchorStyles.None;
+            button1.BackColor = Color.Lime;
+            button1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(323, 354);
+            button1.Name = "button1";
+            button1.Size = new Size(237, 35);
+            button1.TabIndex = 87;
+            button1.Text = "object-oriented Programming";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox1.Image = global::NP_Archives.Properties.Resources.DiscreteStructure;
-            this.pictureBox1.Location = new System.Drawing.Point(294, 13);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(290, 144);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 86;
-            this.pictureBox1.TabStop = false;
+            pictureBox1.Anchor = AnchorStyles.None;
+            pictureBox1.Image = Properties.Resources.DiscreteStructure;
+            pictureBox1.Location = new Point(294, 13);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(290, 144);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 86;
+            pictureBox1.TabStop = false;
             // 
             // csit1stsem
             // 
-            this.csit1stsem.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.csit1stsem.BackColor = System.Drawing.Color.Lime;
-            this.csit1stsem.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.csit1stsem.ForeColor = System.Drawing.Color.White;
-            this.csit1stsem.Location = new System.Drawing.Point(347, 163);
-            this.csit1stsem.Name = "csit1stsem";
-            this.csit1stsem.Size = new System.Drawing.Size(194, 35);
-            this.csit1stsem.TabIndex = 85;
-            this.csit1stsem.Text = "Discrete Structure";
-            this.csit1stsem.UseVisualStyleBackColor = false;
-            this.csit1stsem.Click += new System.EventHandler(this.csit1stsem_Click);
+            csit1stsem.Anchor = AnchorStyles.None;
+            csit1stsem.BackColor = Color.Lime;
+            csit1stsem.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            csit1stsem.ForeColor = Color.White;
+            csit1stsem.Location = new Point(347, 163);
+            csit1stsem.Name = "csit1stsem";
+            csit1stsem.Size = new Size(194, 35);
+            csit1stsem.TabIndex = 85;
+            csit1stsem.Text = "Discrete Structure";
+            csit1stsem.UseVisualStyleBackColor = false;
+            csit1stsem.Click += csit1stsem_Click;
             // 
             // csit2sem
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.panel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "csit2sem";
-            this.Text = "csit2sem";
-            this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "csit2sem";
+            Text = "csit2sem";
+            panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion

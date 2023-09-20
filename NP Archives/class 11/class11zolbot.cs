@@ -41,8 +41,8 @@ namespace NP_Archives.class_11
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1_-qHyrHzz1umjmHMhSXDZbF_wQTIcVtq");
-          //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ImEXj4sO_M7_-inB_Z669HbeD-PioHSy");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1_-qHyrHzz1umjmHMhSXDZbF_wQTIcVtq");
+            //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ImEXj4sO_M7_-inB_Z669HbeD-PioHSy");
         }
 
         private void class11zolbot_Load(object sender, EventArgs e)

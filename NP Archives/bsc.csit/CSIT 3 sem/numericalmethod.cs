@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_3_sem
 {
     public partial class numericalmethod : Form
     {
-        
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1SK1p2go4bxzk3ODtSEYNvWeHnJwfDxna";
         private string pdfFileName = "csit3rdsemnumericalmethodnotes"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");

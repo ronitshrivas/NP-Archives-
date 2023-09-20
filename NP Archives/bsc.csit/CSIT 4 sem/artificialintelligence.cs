@@ -69,7 +69,8 @@ namespace NP_Archives.bsc.csit.CSIT_4_sem
             loadnotes();
             loadexamquestion();
             loadtextbook();
-;        }
+            ;
+        }
 
         private async void loadtextbook()
         {

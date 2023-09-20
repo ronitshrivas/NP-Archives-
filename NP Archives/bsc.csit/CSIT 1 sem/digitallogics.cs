@@ -76,13 +76,13 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
          //   System.IO.File.WriteAllBytes(openpdflabsheet, Properties.Resources.Digital_Logic_Lab_Sheet);///the resource automatically creates            
             webView24.CoreWebView2.Navigate(openpdflabsheet);
             */
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=15dxKsbyb9wvYgAG_HUxAfQcwcLGPmJe7");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1SaDxchhB67WmSmXCVvfl_7wxjJZdOKFs");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1gkdiBtvX1B2ynnDpWD1cBvoUjcfM9qkg");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=15dxKsbyb9wvYgAG_HUxAfQcwcLGPmJe7");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1SaDxchhB67WmSmXCVvfl_7wxjJZdOKFs");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1gkdiBtvX1B2ynnDpWD1cBvoUjcfM9qkg");
             //webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1bpdF20YxRnJv4HL585CN_VrlisEfabEU");
         }
 
-            
+
 
         private void digitallogics_Load(object sender, EventArgs e)
         {
@@ -155,7 +155,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             }
         }
 
-       
+
 
         private void Savesetting()
         {
@@ -163,11 +163,11 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
             Properties.Settings.Default.Save();
         }
 
-        
-      
 
-       
-      
+
+
+
+
 
         private void button1_Click_1(object sender, EventArgs e)
         {

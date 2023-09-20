@@ -40,16 +40,16 @@ namespace NP_Archives.class_11
             await webView21.EnsureCoreWebView2Async(null);
             await webView22.EnsureCoreWebView2Async(null);
             await webView23.EnsureCoreWebView2Async(null);
-           
+
         }
 
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Q51SgtcNc1pj1oQYjM48-KOpaif3MC10");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1j6H4kZZbUq7HzBn0B5njNaEk5wIy0JId");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1PXSuBVeYyTrH_CxcG0ckaqwEI11Z7u6r");
-              
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Q51SgtcNc1pj1oQYjM48-KOpaif3MC10");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1j6H4kZZbUq7HzBn0B5njNaEk5wIy0JId");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1PXSuBVeYyTrH_CxcG0ckaqwEI11Z7u6r");
+
         }
         private void class11nepali_Load(object sender, EventArgs e)
         {
@@ -188,7 +188,7 @@ namespace NP_Archives.class_11
                     byte[] pdfData = await client.GetByteArrayAsync(engpdfUrl);
                     File.WriteAllBytes(localfilepaths, pdfData);
                     //Note Ronit that if pdf is downloaded then button will hide
-                    button2.Enabled= false;
+                    button2.Enabled = false;
                     button2.Visible = false;
                     button2.Dispose();
                     button2 = null;

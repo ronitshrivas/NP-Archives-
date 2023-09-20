@@ -47,8 +47,8 @@ namespace NP_Archives
         {
             await initizated();
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Zuwgy6OfXnmnV2nHC_O6kP7LIYNilf89");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1OBQzxvuhkg3ACzq7r5TJ4lDV0otI7-fC");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1IcoXHhf78VQE4WkBnaMfhiSO-_nxbLPN");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1OBQzxvuhkg3ACzq7r5TJ4lDV0otI7-fC");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1IcoXHhf78VQE4WkBnaMfhiSO-_nxbLPN");
         }
 
 
@@ -211,7 +211,7 @@ namespace NP_Archives
             SaveSettings();
         }
 
-        private  async void button3_Click(object sender, EventArgs e)
+        private async void button3_Click(object sender, EventArgs e)
         {
             await initizated();
             button3.Enabled = false;

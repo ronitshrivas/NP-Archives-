@@ -48,7 +48,7 @@ namespace NP_Archives
              P.Start();
             */
 
-            
+
         }
 
         private async Task initizated()
@@ -61,7 +61,7 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1qFcmQ7Thmttj8kbrhTQW6JDFa5KgfWhV");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1qFcmQ7Thmttj8kbrhTQW6JDFa5KgfWhV");
             //webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Pe-Yekeh_5cnBrvlCVRiY9T2Ee9POl-R");
         }
 
@@ -94,15 +94,15 @@ namespace NP_Archives
             }
         }
 
-        private async  void DisplayPdfFromCache()
+        private async void DisplayPdfFromCache()
         {
             await initizated();
             textbookpdf = Properties.Settings.Default.class9english;
             if (textbookpdf)
             {
-               
-                        // Load the PDF file into the WebView control.
-                        webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
+
+                // Load the PDF file into the WebView control.
+                webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
             }
         }
         private async void LoadSettings()
@@ -136,7 +136,7 @@ namespace NP_Archives
                     button1.Visible = false;
                     button1.Dispose();
                     button1 = null;
-                  
+
                     // Load the PDF file into the WebView control.
                     webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
                 }
@@ -183,7 +183,7 @@ namespace NP_Archives
                     button1.Visible = false;
                     button1.Dispose();
                     button1 = null;
-                   
+
                     // Load the PDF file into the WebView control.=
                     webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
                 }
@@ -194,41 +194,41 @@ namespace NP_Archives
             }
 
 
-           /* using (var httpClient = new HttpClient())
-            {
-                try
-                {
-                    // Download the PDF file from a URL
-                    var pdfUrl = "https://drive.google.com/uc?export=view&id=1qFcmQ7Thmttj8kbrhTQW6JDFa5KgfWhV";
-                    var response = await httpClient.GetAsync(pdfUrl);
-                    response.EnsureSuccessStatusCode();
+            /* using (var httpClient = new HttpClient())
+             {
+                 try
+                 {
+                     // Download the PDF file from a URL
+                     var pdfUrl = "https://drive.google.com/uc?export=view&id=1qFcmQ7Thmttj8kbrhTQW6JDFa5KgfWhV";
+                     var response = await httpClient.GetAsync(pdfUrl);
+                     response.EnsureSuccessStatusCode();
 
-                    // Read the content of the downloaded file
-                    var contentStream = await response.Content.ReadAsStreamAsync();
+                     // Read the content of the downloaded file
+                     var contentStream = await response.Content.ReadAsStreamAsync();
 
-                    // Save the PDF file to your application's resources
-                    using (var resourceWriter = new ResourceWriter(Path.Combine(Application.StartupPath, "Resources.resources")))
-                    {
-                        // Write the PDF content to the resource file
-                        resourceWriter.AddResource("englisgtextbpook.pdf", contentStream);
-                        resourceWriter.Generate();
-                    }
-                    button1.Visible = false;
-                    button1.Dispose();
-                    button1 = null;
-                    webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
+                     // Save the PDF file to your application's resources
+                     using (var resourceWriter = new ResourceWriter(Path.Combine(Application.StartupPath, "Resources.resources")))
+                     {
+                         // Write the PDF content to the resource file
+                         resourceWriter.AddResource("englisgtextbpook.pdf", contentStream);
+                         resourceWriter.Generate();
+                     }
+                     button1.Visible = false;
+                     button1.Dispose();
+                     button1 = null;
+                     webView21.CoreWebView2.Navigate(localFilePath); // You can also use the Url property if you have a direct URL to the PDF.
 
-                    MessageBox.Show("Your IT Notes has been Downloaded. Thank Your :)");
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Error downloading IT Notes: " + ex.Message);
-                }
-           */
+                     MessageBox.Show("Your IT Notes has been Downloaded. Thank Your :)");
+                 }
+                 catch (Exception ex)
+                 {
+                     MessageBox.Show("Error downloading IT Notes: " + ex.Message);
+                 }
+            */
 
-                SaveSettings();
+            SaveSettings();
 
-            
+
         }
 
         private void SaveSettings()
@@ -237,7 +237,7 @@ namespace NP_Archives
             Properties.Settings.Default.Save();
         }
 
-        
+
 
         private async void button2_Click(object sender, EventArgs e)
         {

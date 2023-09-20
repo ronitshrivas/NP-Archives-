@@ -91,7 +91,7 @@ namespace NP_Archives.class_11
         {
             await initizated();
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1fT4WuLewvCIm9C0cCiyXSxXZIbYMJqFk");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1QSi_Jrkc9XuPJC1GNp9MmGl-IWWk0Nsm");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1QSi_Jrkc9XuPJC1GNp9MmGl-IWWk0Nsm");
         }
 
         private async void button1_Click(object sender, EventArgs e)

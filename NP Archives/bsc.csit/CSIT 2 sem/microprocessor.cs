@@ -154,7 +154,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
             }
         }
 
-        private async  void loadtextbook1()
+        private async void loadtextbook1()
         {
             await initizated();
             if (File.Exists(localFilePath))

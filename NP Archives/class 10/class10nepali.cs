@@ -29,7 +29,7 @@ namespace NP_Archives
 
         private void backbtn_Click(object sender, EventArgs e)
         {
-            this.Close();   
+            this.Close();
         }
 
         private async Task initizated()
@@ -43,7 +43,7 @@ namespace NP_Archives
         {
             await initizated();
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=14Fy3iWUlIQECuHBAok2Knefi-jR-8T6Y");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=17EBC07a3YOSRtXc4xURzWusvWXFA15LR");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=17EBC07a3YOSRtXc4xURzWusvWXFA15LR");
         }
         private void class10nepali_Load(object sender, EventArgs e)
         {
@@ -97,7 +97,7 @@ namespace NP_Archives
         private void button2_Click(object sender, EventArgs e)
         {
 
-           
+
         }
 
         private async void downloadtextbook()
@@ -134,7 +134,7 @@ namespace NP_Archives
 
         private void button1_Click(object sender, EventArgs e)
         {
-          
+
         }
 
         private async void downloadmodelquestion()

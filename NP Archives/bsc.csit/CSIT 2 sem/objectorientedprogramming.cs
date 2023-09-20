@@ -136,7 +136,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
             }
         }
 
-        private async  void loadquestionbanksoln1()
+        private async void loadquestionbanksoln1()
         {
             await initizated();
             if (File.Exists(localfilepath3))
@@ -353,7 +353,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
         }
 
         private void button5_Click(object sender, EventArgs e)
-        { 
+        {
             button5.Enabled = false;
             dowmloadsimplebook();
             button5.Text = string.Empty;

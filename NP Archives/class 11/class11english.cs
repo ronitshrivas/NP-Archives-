@@ -90,8 +90,8 @@ namespace NP_Archives.class_11
         private async void InitBrowser()
         {
             await initizated();
-          //  webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1SpI9sj0rfCpy_HNLHFUi-hED8nZXqvBN");
-          //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Of-vaN8DWRuibrrtYNcrICW9GbL5Ehgf");
+            //  webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1SpI9sj0rfCpy_HNLHFUi-hED8nZXqvBN");
+            //  webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Of-vaN8DWRuibrrtYNcrICW9GbL5Ehgf");
         }
 
         private async void button1_Click(object sender, EventArgs e)

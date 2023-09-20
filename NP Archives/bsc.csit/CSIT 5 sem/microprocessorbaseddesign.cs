@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
 {
     public partial class microprocessorbaseddesign : Form
     {
-       
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1LS49Zhfx0JocVhoM5f_PJyMOZTReMXqf";
         private string pdfFileName = "csit5semMBDtextbookI"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");
@@ -54,8 +54,8 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
         private async void InitBrowser()
         {
             await initizated();
-           
-           
+
+
             webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1DrgPkc4kFpnOz-1oVdQboiq-frVbIyDi");
 
         }

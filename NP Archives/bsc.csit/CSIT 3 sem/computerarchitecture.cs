@@ -12,7 +12,7 @@ namespace NP_Archives.bsc.csit.CSIT_3_sem
 {
     public partial class computerarchitecture : Form
     {
-        
+
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1vWJRkPMb2D2ZHDIyB3DXtXsnTr7wm5dR";
         private string pdfFileName = "3rdsemCAnotes"; // The name you want to save the PDF file with
         private string pdfFolderPath = Path.Combine(Application.StartupPath, "DownloadedPDFs");

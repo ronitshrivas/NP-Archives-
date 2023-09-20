@@ -48,11 +48,11 @@ namespace NP_Archives.bsc.csit.CSIT_7_sem
         private async void InitBrowser()
         {
             await initizated();
-            
+
             String openPDFFile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Project of mangement syllabus.pdf";//PDF DOc name
             System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Project_of_mangement_syllabus);///the resource automatically creates            
             webView21.CoreWebView2.Navigate(openPDFFile);
-           
+
             //webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1Sax8OnYlBJcdCk3dbbzewxx2QyYnrf1Q");
         }
         private void principalofmanagement_Load(object sender, EventArgs e)
@@ -63,7 +63,7 @@ namespace NP_Archives.bsc.csit.CSIT_7_sem
             loadnotes();
         }
 
-        private  async void loadnotes()
+        private async void loadnotes()
         {
             await initizated();
             if (File.Exists(localfilepath3))

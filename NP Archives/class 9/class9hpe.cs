@@ -61,7 +61,7 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1VEXbgiGumLGHYCt0BhgLP74Hsc6QU-7q");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1VEXbgiGumLGHYCt0BhgLP74Hsc6QU-7q");
         }
 
         private void backbtn_Click(object sender, EventArgs e)

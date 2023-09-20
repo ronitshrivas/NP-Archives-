@@ -42,7 +42,7 @@ namespace NP_Archives.class_10
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ds1jhF7tnA5AxJkOGHuGfpPuxy20mlCT");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ds1jhF7tnA5AxJkOGHuGfpPuxy20mlCT");
             //webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1joKqrkNSjxCKV_KirWEWMK6RsJcQybtF");
         }
         private void class10computer_Load(object sender, EventArgs e)

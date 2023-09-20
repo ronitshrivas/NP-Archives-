@@ -68,7 +68,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
                 catch (Exception ex)
                 {
                     button3.Visible = true;
-                    
+
                 }
             }
         }
@@ -190,7 +190,7 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
           //  System.IO.File.WriteAllBytes(allprogrampdf, Properties.Resources._250__C_Programs_for_Practice_PDF_Free_Download);///the resource automatically creates            
             webView26.CoreWebView2.Navigate(allprogrampdf);
             */
-            
+
         }
 
         private void backbtn_Click(object sender, EventArgs e)
@@ -208,17 +208,17 @@ namespace NP_Archives.bsc.csit.CSIT_1_sem
 
         }
 
-       
+
         private async void DownloadPdffile()
         {
-           
+
         }
 
-        
-    
 
-     
-       
+
+
+
+
 
         private async void button1_Click_1(object sender, EventArgs e)
         {

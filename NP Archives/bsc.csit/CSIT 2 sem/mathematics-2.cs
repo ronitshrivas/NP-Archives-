@@ -33,7 +33,7 @@ namespace NP_Archives.bsc.csit.CSIT_2_sem
         {
             await webView21.EnsureCoreWebView2Async(null);
             await webView22.EnsureCoreWebView2Async(null);
-            
+
         }
 
         private async void InitBrowser()

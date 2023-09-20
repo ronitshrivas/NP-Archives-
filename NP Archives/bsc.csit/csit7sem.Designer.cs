@@ -28,412 +28,410 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.btncognitivedesign = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.btncomputerhardwaredesign = new System.Windows.Forms.Button();
-            this.btnneuralnetworks = new System.Windows.Forms.Button();
-            this.btnrobotics = new System.Windows.Forms.Button();
-            this.btnecommerce = new System.Windows.Forms.Button();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.btnappliedlogics = new System.Windows.Forms.Button();
-            this.backbtn = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.btnprojectwork = new System.Windows.Forms.Button();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.btnprincipalmanagement = new System.Windows.Forms.Button();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.btndatwarehousinganddataminign = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnadvancedjava = new System.Windows.Forms.Button();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.SuspendLayout();
+            panel1 = new Panel();
+            pictureBox5 = new PictureBox();
+            button1 = new Button();
+            pictureBox11 = new PictureBox();
+            btncognitivedesign = new Button();
+            label1 = new Label();
+            pictureBox6 = new PictureBox();
+            pictureBox7 = new PictureBox();
+            pictureBox8 = new PictureBox();
+            pictureBox9 = new PictureBox();
+            btncomputerhardwaredesign = new Button();
+            btnneuralnetworks = new Button();
+            btnrobotics = new Button();
+            btnecommerce = new Button();
+            pictureBox10 = new PictureBox();
+            btnappliedlogics = new Button();
+            backbtn = new Button();
+            pictureBox4 = new PictureBox();
+            btnprojectwork = new Button();
+            pictureBox3 = new PictureBox();
+            btnprincipalmanagement = new Button();
+            pictureBox2 = new PictureBox();
+            btndatwarehousinganddataminign = new Button();
+            pictureBox1 = new PictureBox();
+            btnadvancedjava = new Button();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.Controls.Add(this.pictureBox5);
-            this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.pictureBox11);
-            this.panel1.Controls.Add(this.btncognitivedesign);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.pictureBox6);
-            this.panel1.Controls.Add(this.pictureBox7);
-            this.panel1.Controls.Add(this.pictureBox8);
-            this.panel1.Controls.Add(this.pictureBox9);
-            this.panel1.Controls.Add(this.btncomputerhardwaredesign);
-            this.panel1.Controls.Add(this.btnneuralnetworks);
-            this.panel1.Controls.Add(this.btnrobotics);
-            this.panel1.Controls.Add(this.btnecommerce);
-            this.panel1.Controls.Add(this.pictureBox10);
-            this.panel1.Controls.Add(this.btnappliedlogics);
-            this.panel1.Controls.Add(this.backbtn);
-            this.panel1.Controls.Add(this.pictureBox4);
-            this.panel1.Controls.Add(this.btnprojectwork);
-            this.panel1.Controls.Add(this.pictureBox3);
-            this.panel1.Controls.Add(this.btnprincipalmanagement);
-            this.panel1.Controls.Add(this.pictureBox2);
-            this.panel1.Controls.Add(this.btndatwarehousinganddataminign);
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Controls.Add(this.btnadvancedjava);
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1213, 608);
-            this.panel1.TabIndex = 1;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.Controls.Add(pictureBox5);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(pictureBox11);
+            panel1.Controls.Add(btncognitivedesign);
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(pictureBox6);
+            panel1.Controls.Add(pictureBox7);
+            panel1.Controls.Add(pictureBox8);
+            panel1.Controls.Add(pictureBox9);
+            panel1.Controls.Add(btncomputerhardwaredesign);
+            panel1.Controls.Add(btnneuralnetworks);
+            panel1.Controls.Add(btnrobotics);
+            panel1.Controls.Add(btnecommerce);
+            panel1.Controls.Add(pictureBox10);
+            panel1.Controls.Add(btnappliedlogics);
+            panel1.Controls.Add(backbtn);
+            panel1.Controls.Add(pictureBox4);
+            panel1.Controls.Add(btnprojectwork);
+            panel1.Controls.Add(pictureBox3);
+            panel1.Controls.Add(btnprincipalmanagement);
+            panel1.Controls.Add(pictureBox2);
+            panel1.Controls.Add(btndatwarehousinganddataminign);
+            panel1.Controls.Add(pictureBox1);
+            panel1.Controls.Add(btnadvancedjava);
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1213, 608);
+            panel1.TabIndex = 1;
+            panel1.Paint += panel1_Paint;
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox5.Image = global::NP_Archives.Properties.Resources.pngwing_com__6_;
-            this.pictureBox5.Location = new System.Drawing.Point(1035, 87);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(166, 89);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 160;
-            this.pictureBox5.TabStop = false;
+            pictureBox5.Anchor = AnchorStyles.Right;
+            pictureBox5.Image = Properties.Resources.pngwing_com__6_;
+            pictureBox5.Location = new Point(1035, 87);
+            pictureBox5.Name = "pictureBox5";
+            pictureBox5.Size = new Size(166, 89);
+            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox5.TabIndex = 160;
+            pictureBox5.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.button1.BackColor = System.Drawing.Color.Lime;
-            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(1035, 194);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(177, 35);
-            this.button1.TabIndex = 159;
-            this.button1.Text = "Digital System Design";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            button1.Anchor = AnchorStyles.Right;
+            button1.BackColor = Color.Lime;
+            button1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(1035, 194);
+            button1.Name = "button1";
+            button1.Size = new Size(177, 35);
+            button1.TabIndex = 159;
+            button1.Text = "Digital System Design";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // pictureBox11
             // 
-            this.pictureBox11.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox11.Image = global::NP_Archives.Properties.Resources.pngwing_com__5_;
-            this.pictureBox11.Location = new System.Drawing.Point(832, 418);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(168, 89);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox11.TabIndex = 158;
-            this.pictureBox11.TabStop = false;
+            pictureBox11.Anchor = AnchorStyles.Right;
+            pictureBox11.Image = Properties.Resources.pngwing_com__5_;
+            pictureBox11.Location = new Point(832, 418);
+            pictureBox11.Name = "pictureBox11";
+            pictureBox11.Size = new Size(168, 89);
+            pictureBox11.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox11.TabIndex = 158;
+            pictureBox11.TabStop = false;
             // 
             // btncognitivedesign
             // 
-            this.btncognitivedesign.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btncognitivedesign.BackColor = System.Drawing.Color.Lime;
-            this.btncognitivedesign.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btncognitivedesign.ForeColor = System.Drawing.Color.White;
-            this.btncognitivedesign.Location = new System.Drawing.Point(812, 525);
-            this.btncognitivedesign.Name = "btncognitivedesign";
-            this.btncognitivedesign.Size = new System.Drawing.Size(251, 35);
-            this.btncognitivedesign.TabIndex = 157;
-            this.btncognitivedesign.Text = "Software Project Management";
-            this.btncognitivedesign.UseVisualStyleBackColor = false;
-            this.btncognitivedesign.Click += new System.EventHandler(this.btncognitivedesign_Click);
+            btncognitivedesign.Anchor = AnchorStyles.Right;
+            btncognitivedesign.BackColor = Color.Lime;
+            btncognitivedesign.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btncognitivedesign.ForeColor = Color.White;
+            btncognitivedesign.Location = new Point(812, 525);
+            btncognitivedesign.Name = "btncognitivedesign";
+            btncognitivedesign.Size = new Size(251, 35);
+            btncognitivedesign.TabIndex = 157;
+            btncognitivedesign.Text = "Software Project Management";
+            btncognitivedesign.UseVisualStyleBackColor = false;
+            btncognitivedesign.Click += btncognitivedesign_Click;
             // 
             // label1
             // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(843, 19);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 30);
-            this.label1.TabIndex = 156;
-            this.label1.Text = "Electives-III";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            label1.Anchor = AnchorStyles.Right;
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI Semibold", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(843, 19);
+            label1.Name = "label1";
+            label1.Size = new Size(120, 30);
+            label1.TabIndex = 156;
+            label1.Text = "Electives-III";
+            label1.Click += label1_Click;
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox6.Image = global::NP_Archives.Properties.Resources.pngwing_com__4_;
-            this.pictureBox6.Location = new System.Drawing.Point(832, 248);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(168, 89);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 155;
-            this.pictureBox6.TabStop = false;
-            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
+            pictureBox6.Anchor = AnchorStyles.Right;
+            pictureBox6.Image = Properties.Resources.pngwing_com__4_;
+            pictureBox6.Location = new Point(832, 248);
+            pictureBox6.Name = "pictureBox6";
+            pictureBox6.Size = new Size(168, 89);
+            pictureBox6.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox6.TabIndex = 155;
+            pictureBox6.TabStop = false;
+            pictureBox6.Click += pictureBox6_Click;
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox7.Image = global::NP_Archives.Properties.Resources.pngwing_com__3_;
-            this.pictureBox7.Location = new System.Drawing.Point(832, 87);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(168, 89);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox7.TabIndex = 154;
-            this.pictureBox7.TabStop = false;
+            pictureBox7.Anchor = AnchorStyles.Right;
+            pictureBox7.Image = Properties.Resources.pngwing_com__3_;
+            pictureBox7.Location = new Point(832, 87);
+            pictureBox7.Name = "pictureBox7";
+            pictureBox7.Size = new Size(168, 89);
+            pictureBox7.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox7.TabIndex = 154;
+            pictureBox7.TabStop = false;
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox8.Image = global::NP_Archives.Properties.Resources.pngwing_com__2_;
-            this.pictureBox8.Location = new System.Drawing.Point(619, 418);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(167, 89);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox8.TabIndex = 153;
-            this.pictureBox8.TabStop = false;
-            this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click);
+            pictureBox8.Anchor = AnchorStyles.Right;
+            pictureBox8.Image = Properties.Resources.pngwing_com__2_;
+            pictureBox8.Location = new Point(619, 418);
+            pictureBox8.Name = "pictureBox8";
+            pictureBox8.Size = new Size(167, 89);
+            pictureBox8.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox8.TabIndex = 153;
+            pictureBox8.TabStop = false;
+            pictureBox8.Click += pictureBox8_Click;
             // 
             // pictureBox9
             // 
-            this.pictureBox9.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox9.Image = global::NP_Archives.Properties.Resources.pngwing_com__1_;
-            this.pictureBox9.Location = new System.Drawing.Point(619, 248);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(167, 89);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox9.TabIndex = 152;
-            this.pictureBox9.TabStop = false;
-            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
+            pictureBox9.Anchor = AnchorStyles.Right;
+            pictureBox9.Image = Properties.Resources.pngwing_com__1_;
+            pictureBox9.Location = new Point(619, 248);
+            pictureBox9.Name = "pictureBox9";
+            pictureBox9.Size = new Size(167, 89);
+            pictureBox9.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox9.TabIndex = 152;
+            pictureBox9.TabStop = false;
+            pictureBox9.Click += pictureBox9_Click;
             // 
             // btncomputerhardwaredesign
             // 
-            this.btncomputerhardwaredesign.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btncomputerhardwaredesign.BackColor = System.Drawing.Color.Lime;
-            this.btncomputerhardwaredesign.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btncomputerhardwaredesign.ForeColor = System.Drawing.Color.White;
-            this.btncomputerhardwaredesign.Location = new System.Drawing.Point(812, 357);
-            this.btncomputerhardwaredesign.Name = "btncomputerhardwaredesign";
-            this.btncomputerhardwaredesign.Size = new System.Drawing.Size(246, 35);
-            this.btncomputerhardwaredesign.TabIndex = 151;
-            this.btncomputerhardwaredesign.Text = "Network System Administrative";
-            this.btncomputerhardwaredesign.UseVisualStyleBackColor = false;
-            this.btncomputerhardwaredesign.Click += new System.EventHandler(this.btncomputerhardwaredesign_Click);
+            btncomputerhardwaredesign.Anchor = AnchorStyles.Right;
+            btncomputerhardwaredesign.BackColor = Color.Lime;
+            btncomputerhardwaredesign.Font = new Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            btncomputerhardwaredesign.ForeColor = Color.White;
+            btncomputerhardwaredesign.Location = new Point(812, 357);
+            btncomputerhardwaredesign.Name = "btncomputerhardwaredesign";
+            btncomputerhardwaredesign.Size = new Size(246, 35);
+            btncomputerhardwaredesign.TabIndex = 151;
+            btncomputerhardwaredesign.Text = "Network System Administrative";
+            btncomputerhardwaredesign.UseVisualStyleBackColor = false;
+            btncomputerhardwaredesign.Click += btncomputerhardwaredesign_Click;
             // 
             // btnneuralnetworks
             // 
-            this.btnneuralnetworks.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnneuralnetworks.BackColor = System.Drawing.Color.Lime;
-            this.btnneuralnetworks.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnneuralnetworks.ForeColor = System.Drawing.Color.White;
-            this.btnneuralnetworks.Location = new System.Drawing.Point(812, 195);
-            this.btnneuralnetworks.Name = "btnneuralnetworks";
-            this.btnneuralnetworks.Size = new System.Drawing.Size(207, 35);
-            this.btnneuralnetworks.TabIndex = 150;
-            this.btnneuralnetworks.Text = "International Marketing";
-            this.btnneuralnetworks.UseVisualStyleBackColor = false;
-            this.btnneuralnetworks.Click += new System.EventHandler(this.btnneuralnetworks_Click);
+            btnneuralnetworks.Anchor = AnchorStyles.Right;
+            btnneuralnetworks.BackColor = Color.Lime;
+            btnneuralnetworks.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnneuralnetworks.ForeColor = Color.White;
+            btnneuralnetworks.Location = new Point(812, 195);
+            btnneuralnetworks.Name = "btnneuralnetworks";
+            btnneuralnetworks.Size = new Size(207, 35);
+            btnneuralnetworks.TabIndex = 150;
+            btnneuralnetworks.Text = "International Marketing";
+            btnneuralnetworks.UseVisualStyleBackColor = false;
+            btnneuralnetworks.Click += btnneuralnetworks_Click;
             // 
             // btnrobotics
             // 
-            this.btnrobotics.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnrobotics.BackColor = System.Drawing.Color.Lime;
-            this.btnrobotics.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnrobotics.ForeColor = System.Drawing.Color.White;
-            this.btnrobotics.Location = new System.Drawing.Point(602, 525);
-            this.btnrobotics.Name = "btnrobotics";
-            this.btnrobotics.Size = new System.Drawing.Size(194, 35);
-            this.btnrobotics.TabIndex = 149;
-            this.btnrobotics.Text = "Network Security";
-            this.btnrobotics.UseVisualStyleBackColor = false;
-            this.btnrobotics.Click += new System.EventHandler(this.btnrobotics_Click);
+            btnrobotics.Anchor = AnchorStyles.Right;
+            btnrobotics.BackColor = Color.Lime;
+            btnrobotics.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnrobotics.ForeColor = Color.White;
+            btnrobotics.Location = new Point(602, 525);
+            btnrobotics.Name = "btnrobotics";
+            btnrobotics.Size = new Size(194, 35);
+            btnrobotics.TabIndex = 149;
+            btnrobotics.Text = "Network Security";
+            btnrobotics.UseVisualStyleBackColor = false;
+            btnrobotics.Click += btnrobotics_Click;
             // 
             // btnecommerce
             // 
-            this.btnecommerce.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnecommerce.BackColor = System.Drawing.Color.Lime;
-            this.btnecommerce.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnecommerce.ForeColor = System.Drawing.Color.White;
-            this.btnecommerce.Location = new System.Drawing.Point(602, 357);
-            this.btnecommerce.Name = "btnecommerce";
-            this.btnecommerce.Size = new System.Drawing.Size(194, 35);
-            this.btnecommerce.TabIndex = 148;
-            this.btnecommerce.Text = "Database Administration";
-            this.btnecommerce.UseVisualStyleBackColor = false;
-            this.btnecommerce.Click += new System.EventHandler(this.btnecommerce_Click);
+            btnecommerce.Anchor = AnchorStyles.Right;
+            btnecommerce.BackColor = Color.Lime;
+            btnecommerce.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            btnecommerce.ForeColor = Color.White;
+            btnecommerce.Location = new Point(602, 357);
+            btnecommerce.Name = "btnecommerce";
+            btnecommerce.Size = new Size(194, 35);
+            btnecommerce.TabIndex = 148;
+            btnecommerce.Text = "Database Administration";
+            btnecommerce.UseVisualStyleBackColor = false;
+            btnecommerce.Click += btnecommerce_Click;
             // 
             // pictureBox10
             // 
-            this.pictureBox10.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.pictureBox10.Image = global::NP_Archives.Properties.Resources.pngwing_com;
-            this.pictureBox10.Location = new System.Drawing.Point(619, 87);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(167, 89);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox10.TabIndex = 147;
-            this.pictureBox10.TabStop = false;
+            pictureBox10.Anchor = AnchorStyles.Right;
+            pictureBox10.Image = Properties.Resources.pngwing_com;
+            pictureBox10.Location = new Point(619, 87);
+            pictureBox10.Name = "pictureBox10";
+            pictureBox10.Size = new Size(167, 89);
+            pictureBox10.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox10.TabIndex = 147;
+            pictureBox10.TabStop = false;
             // 
             // btnappliedlogics
             // 
-            this.btnappliedlogics.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnappliedlogics.BackColor = System.Drawing.Color.Lime;
-            this.btnappliedlogics.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnappliedlogics.ForeColor = System.Drawing.Color.White;
-            this.btnappliedlogics.Location = new System.Drawing.Point(602, 195);
-            this.btnappliedlogics.Name = "btnappliedlogics";
-            this.btnappliedlogics.Size = new System.Drawing.Size(194, 35);
-            this.btnappliedlogics.TabIndex = 146;
-            this.btnappliedlogics.Text = "Information Retrieval";
-            this.btnappliedlogics.UseVisualStyleBackColor = false;
-            this.btnappliedlogics.Click += new System.EventHandler(this.btnappliedlogics_Click);
+            btnappliedlogics.Anchor = AnchorStyles.Right;
+            btnappliedlogics.BackColor = Color.Lime;
+            btnappliedlogics.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnappliedlogics.ForeColor = Color.White;
+            btnappliedlogics.Location = new Point(602, 195);
+            btnappliedlogics.Name = "btnappliedlogics";
+            btnappliedlogics.Size = new Size(194, 35);
+            btnappliedlogics.TabIndex = 146;
+            btnappliedlogics.Text = "Information Retrieval";
+            btnappliedlogics.UseVisualStyleBackColor = false;
+            btnappliedlogics.Click += btnappliedlogics_Click;
             // 
             // backbtn
             // 
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(12, 12);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
-            this.backbtn.TabIndex = 93;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(12, 12);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 37);
+            backbtn.TabIndex = 93;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox4.Image = global::NP_Archives.Properties.Resources.mathematics1;
-            this.pictureBox4.Location = new System.Drawing.Point(289, 76);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(217, 122);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 92;
-            this.pictureBox4.TabStop = false;
+            pictureBox4.Anchor = AnchorStyles.None;
+            pictureBox4.Image = Properties.Resources.mathematics1;
+            pictureBox4.Location = new Point(289, 76);
+            pictureBox4.Name = "pictureBox4";
+            pictureBox4.Size = new Size(217, 122);
+            pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox4.TabIndex = 92;
+            pictureBox4.TabStop = false;
             // 
             // btnprojectwork
             // 
-            this.btnprojectwork.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnprojectwork.BackColor = System.Drawing.Color.Lime;
-            this.btnprojectwork.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnprojectwork.ForeColor = System.Drawing.Color.White;
-            this.btnprojectwork.Location = new System.Drawing.Point(301, 204);
-            this.btnprojectwork.Name = "btnprojectwork";
-            this.btnprojectwork.Size = new System.Drawing.Size(194, 35);
-            this.btnprojectwork.TabIndex = 91;
-            this.btnprojectwork.Text = "Project Work";
-            this.btnprojectwork.UseVisualStyleBackColor = false;
-            this.btnprojectwork.Click += new System.EventHandler(this.btnprojectwork_Click);
+            btnprojectwork.Anchor = AnchorStyles.None;
+            btnprojectwork.BackColor = Color.Lime;
+            btnprojectwork.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnprojectwork.ForeColor = Color.White;
+            btnprojectwork.Location = new Point(301, 204);
+            btnprojectwork.Name = "btnprojectwork";
+            btnprojectwork.Size = new Size(194, 35);
+            btnprojectwork.TabIndex = 91;
+            btnprojectwork.Text = "Project Work";
+            btnprojectwork.UseVisualStyleBackColor = false;
+            btnprojectwork.Click += btnprojectwork_Click;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox3.Image = global::NP_Archives.Properties.Resources.digitallogics;
-            this.pictureBox3.Location = new System.Drawing.Point(47, 432);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(217, 122);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 90;
-            this.pictureBox3.TabStop = false;
+            pictureBox3.Anchor = AnchorStyles.None;
+            pictureBox3.Image = Properties.Resources.digitallogics;
+            pictureBox3.Location = new Point(47, 432);
+            pictureBox3.Name = "pictureBox3";
+            pictureBox3.Size = new Size(217, 122);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox3.TabIndex = 90;
+            pictureBox3.TabStop = false;
             // 
             // btnprincipalmanagement
             // 
-            this.btnprincipalmanagement.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnprincipalmanagement.BackColor = System.Drawing.Color.Lime;
-            this.btnprincipalmanagement.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnprincipalmanagement.ForeColor = System.Drawing.Color.White;
-            this.btnprincipalmanagement.Location = new System.Drawing.Point(34, 561);
-            this.btnprincipalmanagement.Name = "btnprincipalmanagement";
-            this.btnprincipalmanagement.Size = new System.Drawing.Size(254, 35);
-            this.btnprincipalmanagement.TabIndex = 89;
-            this.btnprincipalmanagement.Text = "Principal of management";
-            this.btnprincipalmanagement.UseVisualStyleBackColor = false;
-            this.btnprincipalmanagement.Click += new System.EventHandler(this.btnprincipalmanagement_Click);
+            btnprincipalmanagement.Anchor = AnchorStyles.None;
+            btnprincipalmanagement.BackColor = Color.Lime;
+            btnprincipalmanagement.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnprincipalmanagement.ForeColor = Color.White;
+            btnprincipalmanagement.Location = new Point(34, 561);
+            btnprincipalmanagement.Name = "btnprincipalmanagement";
+            btnprincipalmanagement.Size = new Size(254, 35);
+            btnprincipalmanagement.TabIndex = 89;
+            btnprincipalmanagement.Text = "Principal of management";
+            btnprincipalmanagement.UseVisualStyleBackColor = false;
+            btnprincipalmanagement.Click += btnprincipalmanagement_Click;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox2.Image = global::NP_Archives.Properties.Resources.datamining;
-            this.pictureBox2.Location = new System.Drawing.Point(47, 254);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(217, 122);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 88;
-            this.pictureBox2.TabStop = false;
+            pictureBox2.Anchor = AnchorStyles.None;
+            pictureBox2.Image = Properties.Resources.datamining;
+            pictureBox2.Location = new Point(47, 254);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(217, 122);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 88;
+            pictureBox2.TabStop = false;
             // 
             // btndatwarehousinganddataminign
             // 
-            this.btndatwarehousinganddataminign.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btndatwarehousinganddataminign.BackColor = System.Drawing.Color.Lime;
-            this.btndatwarehousinganddataminign.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btndatwarehousinganddataminign.ForeColor = System.Drawing.Color.White;
-            this.btndatwarehousinganddataminign.Location = new System.Drawing.Point(27, 382);
-            this.btndatwarehousinganddataminign.Name = "btndatwarehousinganddataminign";
-            this.btndatwarehousinganddataminign.Size = new System.Drawing.Size(261, 35);
-            this.btndatwarehousinganddataminign.TabIndex = 87;
-            this.btndatwarehousinganddataminign.Text = "Data Warehousing \\ Data Mining";
-            this.btndatwarehousinganddataminign.UseVisualStyleBackColor = false;
-            this.btndatwarehousinganddataminign.Click += new System.EventHandler(this.btndatwarehousinganddataminign_Click);
+            btndatwarehousinganddataminign.Anchor = AnchorStyles.None;
+            btndatwarehousinganddataminign.BackColor = Color.Lime;
+            btndatwarehousinganddataminign.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btndatwarehousinganddataminign.ForeColor = Color.White;
+            btndatwarehousinganddataminign.Location = new Point(27, 382);
+            btndatwarehousinganddataminign.Name = "btndatwarehousinganddataminign";
+            btndatwarehousinganddataminign.Size = new Size(261, 35);
+            btndatwarehousinganddataminign.TabIndex = 87;
+            btndatwarehousinganddataminign.Text = "Data Warehousing \\ Data Mining";
+            btndatwarehousinganddataminign.UseVisualStyleBackColor = false;
+            btndatwarehousinganddataminign.Click += btndatwarehousinganddataminign_Click;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pictureBox1.Image = global::NP_Archives.Properties.Resources.ajava;
-            this.pictureBox1.Location = new System.Drawing.Point(47, 76);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(217, 122);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 86;
-            this.pictureBox1.TabStop = false;
+            pictureBox1.Anchor = AnchorStyles.None;
+            pictureBox1.Image = Properties.Resources.ajava;
+            pictureBox1.Location = new Point(47, 76);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(217, 122);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 86;
+            pictureBox1.TabStop = false;
             // 
             // btnadvancedjava
             // 
-            this.btnadvancedjava.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnadvancedjava.BackColor = System.Drawing.Color.Lime;
-            this.btnadvancedjava.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnadvancedjava.ForeColor = System.Drawing.Color.White;
-            this.btnadvancedjava.Location = new System.Drawing.Point(58, 204);
-            this.btnadvancedjava.Name = "btnadvancedjava";
-            this.btnadvancedjava.Size = new System.Drawing.Size(194, 35);
-            this.btnadvancedjava.TabIndex = 85;
-            this.btnadvancedjava.Text = "Advanced Java Programming";
-            this.btnadvancedjava.UseVisualStyleBackColor = false;
-            this.btnadvancedjava.Click += new System.EventHandler(this.btnadvancedjava_Click);
+            btnadvancedjava.Anchor = AnchorStyles.None;
+            btnadvancedjava.BackColor = Color.Lime;
+            btnadvancedjava.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnadvancedjava.ForeColor = Color.White;
+            btnadvancedjava.Location = new Point(58, 204);
+            btnadvancedjava.Name = "btnadvancedjava";
+            btnadvancedjava.Size = new Size(194, 35);
+            btnadvancedjava.TabIndex = 85;
+            btnadvancedjava.Text = "Advanced Java Programming";
+            btnadvancedjava.UseVisualStyleBackColor = false;
+            btnadvancedjava.Click += btnadvancedjava_Click;
             // 
             // csit7sem
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.panel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "csit7sem";
-            this.Text = "csit7sem";
-            this.Load += new System.EventHandler(this.csit7sem_Load);
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "csit7sem";
+            Text = "csit7sem";
+            Load += csit7sem_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox10).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox3).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion

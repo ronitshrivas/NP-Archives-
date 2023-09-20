@@ -41,8 +41,8 @@ namespace NP_Archives.class_11
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1rR2LMwQL1mCYKz74WFa7Foz2t4vKv2D5");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1AJLCkNmSZYonRe3BvksRAYYQHGOGTLH5");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1rR2LMwQL1mCYKz74WFa7Foz2t4vKv2D5");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1AJLCkNmSZYonRe3BvksRAYYQHGOGTLH5");
         }
 
         private void class11biology_Load(object sender, EventArgs e)
@@ -137,7 +137,7 @@ namespace NP_Archives.class_11
         private async void button2_Click(object sender, EventArgs e)
         {
             await initizated();
-            button2.Enabled= false;
+            button2.Enabled = false;
             downloadmodelquestion();
             button2.Text = string.Empty;
             button2.Text += "Please wait ....";

@@ -30,7 +30,7 @@ namespace NP_Archives.class_12
 
         private async Task initizated()
         {
-            
+
             await webView24.EnsureCoreWebView2Async(null);
 
 
@@ -39,7 +39,7 @@ namespace NP_Archives.class_12
         private async void InitBrowser()
         {
             await initizated();
-           
+
             webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1VJ0kZJ17s-5FqOOpfFwAfiF7z6F_fkaz");
         }
 

@@ -40,9 +40,9 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1wEUcY3rut4e4_43NxES6xOayHr6JejTy");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1pDL1QGfOxO-Z2gC1vejeHz3gDl8mkQ43");
-          //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1hxZl9KB-lLg_Xsk4oAIKTX9nFqyjXY_t");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1wEUcY3rut4e4_43NxES6xOayHr6JejTy");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1pDL1QGfOxO-Z2gC1vejeHz3gDl8mkQ43");
+            //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1hxZl9KB-lLg_Xsk4oAIKTX9nFqyjXY_t");
         }
 
 

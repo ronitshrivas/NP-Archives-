@@ -12,7 +12,7 @@ namespace NP_Archives.class_12
 {
     public partial class class12chemistry : Form
     {
-        
+
 
         private string pdfUrl = "https://drive.google.com/uc?export=view&id=1TLvDoql4Y3cwxi8tXM2AqHpTId6BswQP";
         private string pdfFileName = "class12chemistrytextbook"; // The name you want to save the PDF file with
@@ -47,7 +47,7 @@ namespace NP_Archives.class_12
             await webView22.EnsureCoreWebView2Async(null);
             await webView23.EnsureCoreWebView2Async(null);
             await webView24.EnsureCoreWebView2Async(null);
-           
+
         }
 
         private async void InitBrowser()
@@ -57,7 +57,7 @@ namespace NP_Archives.class_12
             webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1MVykyY7nMEjP_HsnC1XJvAl0bUPcJJ5z");
             webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1lBY1YawEA_D6amPCypp3BzD34dV7g9kJ");
             webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1hDX156AQBWzPfGOPsvde0kb3K7gwC89A");
-           
+
         }
 
         private void class12chemistry_Load(object sender, EventArgs e)

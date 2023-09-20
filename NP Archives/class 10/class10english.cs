@@ -46,15 +46,15 @@ namespace NP_Archives
         private async void InitBrowser()
         {
             await initizated();
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ci11jejXST4HFI942PUHdqVtUaBOpuw8");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1QY96my-P_fcYSREQNE8G8r6IBqio5JGh");
-          //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1lM0nxMaOIp6O3QVsjnqfYg2_4nj6QGqr");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1ci11jejXST4HFI942PUHdqVtUaBOpuw8");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1QY96my-P_fcYSREQNE8G8r6IBqio5JGh");
+            //  webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1lM0nxMaOIp6O3QVsjnqfYg2_4nj6QGqr");
         }
 
         private void class10english_Load(object sender, EventArgs e)
         {
             InitBrowser();
-             LoadSettings();
+            LoadSettings();
             Loadmodelquestion();
             loadsamplequestion();
         }
@@ -105,7 +105,7 @@ namespace NP_Archives
 
         private async void LoadSettings()
         {
-           
+
             await initizated();
             if (File.Exists(localFilePath))
             {

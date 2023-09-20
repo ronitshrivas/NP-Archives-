@@ -63,9 +63,9 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
            // System.IO.File.WriteAllBytes(openexampdffile, Properties.Resources.Software_Engineering_Exam_Question);///the resource automatically creates            
             webView23.CoreWebView2.Navigate(openexampdffile);
             */
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1i5S1v3B6n-LTIE5-ICpN0lkjvkQVBGgM");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1lDiNxHVnTPxk167kQS8QmA3zOPEsNiys");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1cvtnhLFxPxdktxEYam7alZNZq2ayQIak");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1i5S1v3B6n-LTIE5-ICpN0lkjvkQVBGgM");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1lDiNxHVnTPxk167kQS8QmA3zOPEsNiys");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1cvtnhLFxPxdktxEYam7alZNZq2ayQIak");
         }
 
         private void softwareengineering_Load(object sender, EventArgs e)

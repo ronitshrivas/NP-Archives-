@@ -80,11 +80,11 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
           //  System.IO.File.WriteAllBytes(openpdflabsheet, Properties.Resources.Net_Centric_Exam_Question);///the resource automatically creates            
             webView25.CoreWebView2.Navigate(openpdflabsheet);
             */
-           // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1PtepNCqAZU5M9Ojic38WnN7M-8QK5q_y");
-           // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1pG2Bphj-5ZLHA6UNAotimcSbHPYRLmyA");
-           // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1op1J9rJvCR3eGJhVU-Dy-qPvTobwJ8pi");
-           // webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1qaZSM3LeFt5Hu5k3s7Xewm5-L8rS0qKh");
-           // webView25.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1mLdxNoPI9sqTDC2XCTsBKbHkJlfbQ8tK");
+            // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1PtepNCqAZU5M9Ojic38WnN7M-8QK5q_y");
+            // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1pG2Bphj-5ZLHA6UNAotimcSbHPYRLmyA");
+            // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1op1J9rJvCR3eGJhVU-Dy-qPvTobwJ8pi");
+            // webView24.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1qaZSM3LeFt5Hu5k3s7Xewm5-L8rS0qKh");
+            // webView25.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1mLdxNoPI9sqTDC2XCTsBKbHkJlfbQ8tK");
         }
 
         private void netcentriccomputing_Load(object sender, EventArgs e)
@@ -461,7 +461,7 @@ namespace NP_Archives.bsc.csit.CSIT_6_sem
             catch (Exception ex)
             {
                 MessageBox.Show($"Failed to download File: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }        
+            }
         }
     }
 }

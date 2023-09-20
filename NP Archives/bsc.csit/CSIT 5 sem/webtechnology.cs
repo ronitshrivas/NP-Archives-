@@ -66,7 +66,7 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
             await webView23.EnsureCoreWebView2Async(null);
             await webView24.EnsureCoreWebView2Async(null);
             await webView25.EnsureCoreWebView2Async(null);
-            await webView26.EnsureCoreWebView2Async(null); 
+            await webView26.EnsureCoreWebView2Async(null);
             await webView27.EnsureCoreWebView2Async(null);
             await webView28.EnsureCoreWebView2Async(null);
             await webView29.EnsureCoreWebView2Async(null);
@@ -428,11 +428,11 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
             button4.Text += "Please wait ....";
         }
 
-        private async  void downloadjavascript()
+        private async void downloadjavascript()
         {
             await initizated();
 
-             try
+            try
             {
                 using (HttpClient client = new HttpClient())
                 {
@@ -447,7 +447,7 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
                     //Note Ronit that if pdf is downloaded then button will hide
                     button4.Visible = false;
                     button4.Dispose();
-                   button4 = null;
+                    button4 = null;
 
                     // Load the PDF file into the WebView control.
                     webView25.CoreWebView2.Navigate(localfilepath4); // You can also use the Url property if you have a direct URL to the PDF.
@@ -500,7 +500,8 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
         }
 
         private async void button6_Click(object sender, EventArgs e)
-        {await initizated();
+        {
+            await initizated();
             button6.Enabled = false;
 
             downloadwebtechnologies();

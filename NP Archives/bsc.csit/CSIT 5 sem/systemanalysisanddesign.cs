@@ -45,7 +45,7 @@ namespace NP_Archives.bsc.csit.CSIT_5_sem
             String openPDFFile = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"Cryptography Syllabus.pdf";//PDF DOc name
             System.IO.File.WriteAllBytes(openPDFFile, Properties.Resources.Cryptography_Syllabus);///the resource automatically creates            
             webView21.CoreWebView2.Navigate(openPDFFile);
-           
+
             // webView21.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1MyNSa8T_K8Z5kdBKgt_QTLx-hK2Pcuoi");
             // webView22.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1_eBBdhZeIrXwdkr8wiJ12rWl9U47xHW4");
             // webView23.CoreWebView2.Navigate("https://drive.google.com/uc?export=view&id=1TCqgJ3dhlu6NflJEzQavBASHq-C0bWfY");

@@ -45,6 +45,7 @@
             btnclass10english = new Button();
             label3 = new Label();
             panel2 = new Panel();
+            webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             pictureBox1 = new PictureBox();
             btnclass9computer = new Button();
             btnclass9opt = new Button();
@@ -55,13 +56,12 @@
             btnclass9nepali = new Button();
             btnclass9english = new Button();
             label2 = new Label();
-            webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             btnclass10science = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)webView21).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // btnclass10science
@@ -177,6 +177,7 @@
             backbtn.AutoSize = true;
             backbtn.BackColor = Color.FromArgb(45, 54, 76);
             backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
             backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
             backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
             backbtn.FlatStyle = FlatStyle.Flat;
@@ -327,6 +328,18 @@
             panel2.Name = "panel2";
             panel2.Size = new Size(399, 457);
             panel2.TabIndex = 40;
+            // 
+            // webView21
+            // 
+            webView21.AllowExternalDrop = true;
+            webView21.CreationProperties = null;
+            webView21.DefaultBackgroundColor = Color.White;
+            webView21.Dock = DockStyle.Fill;
+            webView21.Location = new Point(0, 0);
+            webView21.Name = "webView21";
+            webView21.Size = new Size(395, 453);
+            webView21.TabIndex = 2;
+            webView21.ZoomFactor = 1D;
             // 
             // pictureBox1
             // 
@@ -487,18 +500,6 @@
             label2.TabIndex = 29;
             label2.Text = "School Level ";
             // 
-            // webView21
-            // 
-            webView21.AllowExternalDrop = true;
-            webView21.CreationProperties = null;
-            webView21.DefaultBackgroundColor = Color.White;
-            webView21.Dock = DockStyle.Fill;
-            webView21.Location = new Point(0, 0);
-            webView21.Name = "webView21";
-            webView21.Size = new Size(395, 453);
-            webView21.TabIndex = 2;
-            webView21.ZoomFactor = 1D;
-            // 
             // schoollevel
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -516,8 +517,8 @@
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)webView21).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 

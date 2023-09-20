@@ -28,203 +28,201 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.backbtn = new System.Windows.Forms.Button();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.textbookpage = new System.Windows.Forms.TabPage();
-            this.webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.modelquestionpage = new System.Windows.Forms.TabPage();
-            this.itnotesbtn = new System.Windows.Forms.Button();
-            this.webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.questionbtn = new System.Windows.Forms.Button();
-            this.webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.tabControl1.SuspendLayout();
-            this.textbookpage.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).BeginInit();
-            this.modelquestionpage.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView22)).BeginInit();
-            this.tabPage1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.webView25)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.webView23)).BeginInit();
-            this.SuspendLayout();
+            components = new System.ComponentModel.Container();
+            backbtn = new Button();
+            tabControl1 = new TabControl();
+            textbookpage = new TabPage();
+            webView24 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            modelquestionpage = new TabPage();
+            itnotesbtn = new Button();
+            webView22 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            tabPage1 = new TabPage();
+            questionbtn = new Button();
+            webView25 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            webView23 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            openFileDialog1 = new OpenFileDialog();
+            timer1 = new System.Windows.Forms.Timer(components);
+            tabControl1.SuspendLayout();
+            textbookpage.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView24).BeginInit();
+            modelquestionpage.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView22).BeginInit();
+            tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)webView25).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)webView23).BeginInit();
+            SuspendLayout();
             // 
             // backbtn
             // 
-            this.backbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.backbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.backbtn.Image = global::NP_Archives.Properties.Resources.back_to_32px;
-            this.backbtn.Location = new System.Drawing.Point(5, 5);
-            this.backbtn.Name = "backbtn";
-            this.backbtn.Size = new System.Drawing.Size(46, 37);
-            this.backbtn.TabIndex = 62;
-            this.backbtn.UseVisualStyleBackColor = false;
-            this.backbtn.Click += new System.EventHandler(this.backbtn_Click);
+            backbtn.BackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.BorderSize = 0;
+            backbtn.FlatAppearance.MouseDownBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatAppearance.MouseOverBackColor = Color.FromArgb(45, 54, 76);
+            backbtn.FlatStyle = FlatStyle.Flat;
+            backbtn.Image = Properties.Resources.back_to_32px;
+            backbtn.Location = new Point(5, 5);
+            backbtn.Name = "backbtn";
+            backbtn.Size = new Size(46, 37);
+            backbtn.TabIndex = 62;
+            backbtn.UseVisualStyleBackColor = false;
+            backbtn.Click += backbtn_Click;
             // 
             // tabControl1
             // 
-            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.tabControl1.Controls.Add(this.textbookpage);
-            this.tabControl1.Controls.Add(this.modelquestionpage);
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.tabControl1.Location = new System.Drawing.Point(1, 48);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1214, 561);
-            this.tabControl1.TabIndex = 63;
+            tabControl1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            tabControl1.Controls.Add(textbookpage);
+            tabControl1.Controls.Add(modelquestionpage);
+            tabControl1.Controls.Add(tabPage1);
+            tabControl1.Font = new Font("Comic Sans MS", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
+            tabControl1.Location = new Point(1, 48);
+            tabControl1.Name = "tabControl1";
+            tabControl1.SelectedIndex = 0;
+            tabControl1.Size = new Size(1214, 561);
+            tabControl1.TabIndex = 63;
             // 
             // textbookpage
             // 
-            this.textbookpage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.textbookpage.Controls.Add(this.webView24);
-            this.textbookpage.Location = new System.Drawing.Point(4, 28);
-            this.textbookpage.Name = "textbookpage";
-            this.textbookpage.Padding = new System.Windows.Forms.Padding(3);
-            this.textbookpage.Size = new System.Drawing.Size(1206, 529);
-            this.textbookpage.TabIndex = 0;
-            this.textbookpage.Text = "Syllabus";
+            textbookpage.BackColor = Color.FromArgb(45, 54, 76);
+            textbookpage.Controls.Add(webView24);
+            textbookpage.Location = new Point(4, 28);
+            textbookpage.Name = "textbookpage";
+            textbookpage.Padding = new Padding(3);
+            textbookpage.Size = new Size(1206, 529);
+            textbookpage.TabIndex = 0;
+            textbookpage.Text = "Syllabus";
             // 
             // webView24
             // 
-            this.webView24.AllowExternalDrop = true;
-            this.webView24.CreationProperties = null;
-            this.webView24.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView24.Location = new System.Drawing.Point(3, 3);
-            this.webView24.Name = "webView24";
-            this.webView24.Size = new System.Drawing.Size(1200, 523);
-            this.webView24.TabIndex = 2;
-            this.webView24.ZoomFactor = 1D;
+            webView24.AllowExternalDrop = true;
+            webView24.CreationProperties = null;
+            webView24.DefaultBackgroundColor = Color.White;
+            webView24.Dock = DockStyle.Fill;
+            webView24.Location = new Point(3, 3);
+            webView24.Name = "webView24";
+            webView24.Size = new Size(1200, 523);
+            webView24.TabIndex = 2;
+            webView24.ZoomFactor = 1D;
             // 
             // modelquestionpage
             // 
-            this.modelquestionpage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.modelquestionpage.Controls.Add(this.itnotesbtn);
-            this.modelquestionpage.Controls.Add(this.webView22);
-            this.modelquestionpage.Location = new System.Drawing.Point(4, 28);
-            this.modelquestionpage.Name = "modelquestionpage";
-            this.modelquestionpage.Padding = new System.Windows.Forms.Padding(3);
-            this.modelquestionpage.Size = new System.Drawing.Size(1206, 529);
-            this.modelquestionpage.TabIndex = 1;
-            this.modelquestionpage.Text = "Text Book";
+            modelquestionpage.BackColor = Color.FromArgb(45, 54, 76);
+            modelquestionpage.Controls.Add(itnotesbtn);
+            modelquestionpage.Controls.Add(webView22);
+            modelquestionpage.Location = new Point(4, 28);
+            modelquestionpage.Name = "modelquestionpage";
+            modelquestionpage.Padding = new Padding(3);
+            modelquestionpage.Size = new Size(1206, 529);
+            modelquestionpage.TabIndex = 1;
+            modelquestionpage.Text = "Text Book";
             // 
             // itnotesbtn
             // 
-            this.itnotesbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.itnotesbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.itnotesbtn.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.itnotesbtn.ForeColor = System.Drawing.Color.White;
-            this.itnotesbtn.Location = new System.Drawing.Point(548, 234);
-            this.itnotesbtn.Name = "itnotesbtn";
-            this.itnotesbtn.Size = new System.Drawing.Size(117, 49);
-            this.itnotesbtn.TabIndex = 64;
-            this.itnotesbtn.Text = "! Download";
-            this.itnotesbtn.UseVisualStyleBackColor = false;
-            this.itnotesbtn.Click += new System.EventHandler(this.itnotesbtn_Click);
+            itnotesbtn.BackColor = Color.FromArgb(0, 192, 0);
+            itnotesbtn.FlatStyle = FlatStyle.Flat;
+            itnotesbtn.Font = new Font("Comic Sans MS", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            itnotesbtn.ForeColor = Color.White;
+            itnotesbtn.Location = new Point(548, 234);
+            itnotesbtn.Name = "itnotesbtn";
+            itnotesbtn.Size = new Size(117, 49);
+            itnotesbtn.TabIndex = 64;
+            itnotesbtn.Text = "! Download";
+            itnotesbtn.UseVisualStyleBackColor = false;
+            itnotesbtn.Click += itnotesbtn_Click;
             // 
             // webView22
             // 
-            this.webView22.AllowExternalDrop = true;
-            this.webView22.CreationProperties = null;
-            this.webView22.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView22.Location = new System.Drawing.Point(3, 3);
-            this.webView22.Name = "webView22";
-            this.webView22.Size = new System.Drawing.Size(1200, 523);
-            this.webView22.TabIndex = 1;
-            this.webView22.ZoomFactor = 1D;
+            webView22.AllowExternalDrop = true;
+            webView22.CreationProperties = null;
+            webView22.DefaultBackgroundColor = Color.White;
+            webView22.Dock = DockStyle.Fill;
+            webView22.Location = new Point(3, 3);
+            webView22.Name = "webView22";
+            webView22.Size = new Size(1200, 523);
+            webView22.TabIndex = 1;
+            webView22.ZoomFactor = 1D;
             // 
             // tabPage1
             // 
-            this.tabPage1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.tabPage1.Controls.Add(this.questionbtn);
-            this.tabPage1.Controls.Add(this.webView25);
-            this.tabPage1.Controls.Add(this.webView23);
-            this.tabPage1.Location = new System.Drawing.Point(4, 28);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Size = new System.Drawing.Size(1206, 529);
-            this.tabPage1.TabIndex = 2;
-            this.tabPage1.Text = "Question";
+            tabPage1.BackColor = Color.FromArgb(45, 54, 76);
+            tabPage1.Controls.Add(questionbtn);
+            tabPage1.Controls.Add(webView25);
+            tabPage1.Controls.Add(webView23);
+            tabPage1.Location = new Point(4, 28);
+            tabPage1.Name = "tabPage1";
+            tabPage1.Size = new Size(1206, 529);
+            tabPage1.TabIndex = 2;
+            tabPage1.Text = "Question";
             // 
             // questionbtn
             // 
-            this.questionbtn.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.questionbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.questionbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.questionbtn.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.questionbtn.ForeColor = System.Drawing.Color.White;
-            this.questionbtn.Location = new System.Drawing.Point(548, 234);
-            this.questionbtn.Name = "questionbtn";
-            this.questionbtn.Size = new System.Drawing.Size(117, 49);
-            this.questionbtn.TabIndex = 65;
-            this.questionbtn.Text = "! Download";
-            this.questionbtn.UseVisualStyleBackColor = false;
-            this.questionbtn.Click += new System.EventHandler(this.questionbtn_Click);
+            questionbtn.Anchor = AnchorStyles.None;
+            questionbtn.BackColor = Color.FromArgb(0, 192, 0);
+            questionbtn.FlatStyle = FlatStyle.Flat;
+            questionbtn.Font = new Font("Comic Sans MS", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
+            questionbtn.ForeColor = Color.White;
+            questionbtn.Location = new Point(548, 234);
+            questionbtn.Name = "questionbtn";
+            questionbtn.Size = new Size(117, 49);
+            questionbtn.TabIndex = 65;
+            questionbtn.Text = "! Download";
+            questionbtn.UseVisualStyleBackColor = false;
+            questionbtn.Click += questionbtn_Click;
             // 
             // webView25
             // 
-            this.webView25.AllowExternalDrop = true;
-            this.webView25.CreationProperties = null;
-            this.webView25.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView25.Location = new System.Drawing.Point(0, 0);
-            this.webView25.Name = "webView25";
-            this.webView25.Size = new System.Drawing.Size(1206, 529);
-            this.webView25.TabIndex = 64;
-            this.webView25.ZoomFactor = 1D;
+            webView25.AllowExternalDrop = true;
+            webView25.CreationProperties = null;
+            webView25.DefaultBackgroundColor = Color.White;
+            webView25.Dock = DockStyle.Fill;
+            webView25.Location = new Point(0, 0);
+            webView25.Name = "webView25";
+            webView25.Size = new Size(1206, 529);
+            webView25.TabIndex = 64;
+            webView25.ZoomFactor = 1D;
             // 
             // webView23
             // 
-            this.webView23.AllowExternalDrop = true;
-            this.webView23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.webView23.CreationProperties = null;
-            this.webView23.DefaultBackgroundColor = System.Drawing.Color.White;
-            this.webView23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webView23.Location = new System.Drawing.Point(0, 0);
-            this.webView23.Name = "webView23";
-            this.webView23.Size = new System.Drawing.Size(1206, 529);
-            this.webView23.TabIndex = 63;
-            this.webView23.ZoomFactor = 1D;
+            webView23.AllowExternalDrop = true;
+            webView23.BackColor = Color.FromArgb(45, 54, 76);
+            webView23.CreationProperties = null;
+            webView23.DefaultBackgroundColor = Color.White;
+            webView23.Dock = DockStyle.Fill;
+            webView23.Location = new Point(0, 0);
+            webView23.Name = "webView23";
+            webView23.Size = new Size(1206, 529);
+            webView23.TabIndex = 63;
+            webView23.ZoomFactor = 1D;
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
+            openFileDialog1.FileName = "openFileDialog1";
             // 
             // timer1
             // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            timer1.Tick += timer1_Tick;
             // 
             // informationtechnology
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(54)))), ((int)(((byte)(76)))));
-            this.ClientSize = new System.Drawing.Size(1213, 608);
-            this.Controls.Add(this.tabControl1);
-            this.Controls.Add(this.backbtn);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "informationtechnology";
-            this.Text = "informationtechnology";
-            this.Load += new System.EventHandler(this.informationtechnology_Load);
-            this.tabControl1.ResumeLayout(false);
-            this.textbookpage.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView24)).EndInit();
-            this.modelquestionpage.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView22)).EndInit();
-            this.tabPage1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.webView25)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.webView23)).EndInit();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(45, 54, 76);
+            ClientSize = new Size(1213, 608);
+            Controls.Add(tabControl1);
+            Controls.Add(backbtn);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "informationtechnology";
+            Text = "informationtechnology";
+            Load += informationtechnology_Load;
+            tabControl1.ResumeLayout(false);
+            textbookpage.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView24).EndInit();
+            modelquestionpage.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView22).EndInit();
+            tabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)webView25).EndInit();
+            ((System.ComponentModel.ISupportInitialize)webView23).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
